@@ -1,0 +1,1 @@
+<a href="<?php echo home_url(); ?>">home</a> + navbar!
