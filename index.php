@@ -4,7 +4,7 @@
   <div id="home-parallax">
     <p id="scroll-me" >
       Scopri<br>
-      <img src="<?php bloginfo( 'template_url' ); ?>/img/scroll.svg">
+      <img class="floatx" src="<?php bloginfo( 'template_url' ); ?>/img/scroll.svg">
     </p>
   </div>
 </div>

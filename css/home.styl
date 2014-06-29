@@ -1,3 +1,5 @@
+@import '../bower_components/nib'
+
 h2
   font-family: 'Raleway', sans-serif;
 
@@ -11,12 +13,23 @@ h2
   background-size cover
   margin-top -88px
 
+@keyframes Floatingx {
+    0% {-webkit-transform:translate(0, 0px);}
+    55% {-webkit-transform:translate(0, 3px);}
+    100% {-webkit-transform: translate(0, -0px);    }    
+}
+
 #scroll-me
   position: absolute;
   bottom: 0;
   text-align: center;
   width: 100%;
   color white
+  .floatx
+    animation-name: Floatingx
+    animation-duration: 1.5s
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
 
 #home-intro
   font-size: 24px;

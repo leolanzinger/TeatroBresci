@@ -274,6 +274,8 @@ h2 {
   background: url("../img/home.jpg");
   height: 650px;
   background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
   background-size: cover;
   margin-top: -88px;
 }
@@ -283,6 +285,28 @@ h2 {
   text-align: center;
   width: 100%;
   color: #fff;
+}
+#scroll-me .floatx {
+  -webkit-animation-name: Floatingx;
+  -moz-animation-name: Floatingx;
+  -o-animation-name: Floatingx;
+  -ms-animation-name: Floatingx;
+  animation-name: Floatingx;
+  -webkit-animation-duration: 1.5s;
+  -moz-animation-duration: 1.5s;
+  -o-animation-duration: 1.5s;
+  -ms-animation-duration: 1.5s;
+  animation-duration: 1.5s;
+  -webkit-animation-iteration-count: infinite;
+  -moz-animation-iteration-count: infinite;
+  -o-animation-iteration-count: infinite;
+  -ms-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  -webkit-animation-timing-function: ease-in-out;
+  -moz-animation-timing-function: ease-in-out;
+  -o-animation-timing-function: ease-in-out;
+  -ms-animation-timing-function: ease-in-out;
+  animation-timing-function: ease-in-out;
 }
 #home-intro {
   font-size: 24px;
@@ -294,6 +318,8 @@ h2 {
 }
 .events-date {
   background: url("../img/exagon.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
   padding: 5px;
@@ -312,4 +338,48 @@ h2 {
 .events-place {
   line-height: 1.1em;
   margin: 0;
+}
+@-moz-keyframes Floatingx {
+  0% {
+    -webkit-transform: translate(0, 0px);
+  }
+  55% {
+    -webkit-transform: translate(0, 3px);
+  }
+  100% {
+    -webkit-transform: translate(0, 0px);
+  }
+}
+@-webkit-keyframes Floatingx {
+  0% {
+    -webkit-transform: translate(0, 0px);
+  }
+  55% {
+    -webkit-transform: translate(0, 3px);
+  }
+  100% {
+    -webkit-transform: translate(0, 0px);
+  }
+}
+@-o-keyframes Floatingx {
+  0% {
+    -webkit-transform: translate(0, 0px);
+  }
+  55% {
+    -webkit-transform: translate(0, 3px);
+  }
+  100% {
+    -webkit-transform: translate(0, 0px);
+  }
+}
+@keyframes Floatingx {
+  0% {
+    -webkit-transform: translate(0, 0px);
+  }
+  55% {
+    -webkit-transform: translate(0, 3px);
+  }
+  100% {
+    -webkit-transform: translate(0, 0px);
+  }
 }
