@@ -1,4 +1,4 @@
-<div class="container">
+<div class="menu-container">
       <div class="main">
         <nav id="cbp-hrmenu" class="cbp-hrmenu">
           <ul>
