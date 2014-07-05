@@ -26,6 +26,7 @@ h2
   width: 100%;
   color white
   .floatx
+    margin-top 1em
     animation-name: Floatingx
     animation-duration: 1.5s
     animation-iteration-count: infinite;
@@ -38,22 +39,29 @@ h2
 
 #home-events
   list-style-type none
+  margin-bottom 1em
 
-.events-date
+.events-date-wrapper
   background url("../img/exagon.png")
   background-size cover
   background-repeat no-repeat
   padding 5px
+  width 51px
+  height 58px
+  float left
+  line-height 1.5em
+  margin-right 1em
+
+.events-date
   color white
   font-weight bold
-  width 51px
   text-align center
-  line-height 1.5em
-  float left
-  margin: 0 1em 0 0;
+  line-height 1.1em
+  margin: 4px 0 0 0;
   span
     font-size 1.4em
 
 .events-name, .events-place
-  line-height 1.1em
+  line-height 1.2em
   margin 0
+  font-size 1.4em

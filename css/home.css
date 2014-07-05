@@ -21,6 +21,7 @@ h2 {
   color: #fff;
 }
 #scroll-me .floatx {
+  margin-top: 1em;
   -webkit-animation-name: Floatingx;
   -moz-animation-name: Floatingx;
   -o-animation-name: Floatingx;
@@ -49,29 +50,36 @@ h2 {
 }
 #home-events {
   list-style-type: none;
+  margin-bottom: 1em;
 }
-.events-date {
+.events-date-wrapper {
   background: url("../img/exagon.png");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
   padding: 5px;
+  width: 51px;
+  height: 58px;
+  float: left;
+  line-height: 1.5em;
+  margin-right: 1em;
+}
+.events-date {
   color: #fff;
   font-weight: bold;
-  width: 51px;
   text-align: center;
-  line-height: 1.5em;
-  float: left;
-  margin: 0 1em 0 0;
+  line-height: 1.1em;
+  margin: 4px 0 0 0;
 }
 .events-date span {
   font-size: 1.4em;
 }
 .events-name,
 .events-place {
-  line-height: 1.1em;
+  line-height: 1.2em;
   margin: 0;
+  font-size: 1.4em;
 }
 @-moz-keyframes Floatingx {
   0% {
