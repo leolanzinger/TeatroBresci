@@ -19,9 +19,21 @@ get_header(); ?>
 	<?php
 		$args = array( 'post_type' => 'persone', 'posts_per_page' => 100 );
 		$loop = new WP_Query( $args );
-		while ( $loop->have_posts() ) : $loop->the_post();
-		?>	<a href="<?php the_permalink(); ?>"><h2> <?php the_title(); ?></h2></a>
-			<?php the_content(); ?>
+		while ( $loop->have_posts() ) : $loop->the_post(); ?>	
+			
+			<div class="row">
+				<div class="actor-photo">
+					<?php if ( has_post_thumbnail() ) {
+						the_post_thumbnail();
+					} ?>
+				</div>
+				<a href="<?php the_permalink(); ?>">
+					<h2 class="actor-name"> <?php the_title(); ?></h2>
+				</a>
+				<div class="actor-description">
+					<?php the_content(); ?>
+				</div>
+			</div>
 		<?php endwhile;
 	?>
 

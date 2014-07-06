@@ -1,0 +1,4058 @@
+{
+"CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
+"creatorBuild": "17018",
+"files": {
+	"\/404.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/404.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/archive-corsi.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/archive-corsi.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/archive-spettacoli.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/archive-spettacoli.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/nib\/iconic\/demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/iconic\/demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/nib\/index.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/index.styl",
+		"outputAbbreviatedPath": "\/bower_components\/css\/index.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/lib\/nib.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/lib\/nib.js",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/lib\/min\/nib-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/nib\/lib\/nib\/border.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/lib\/nib\/border.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/lib\/css\/border.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/lib\/nib\/clearfix.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/lib\/nib\/clearfix.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/lib\/css\/clearfix.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/lib\/nib\/color-image.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/lib\/nib\/color-image.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/lib\/css\/color-image.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/lib\/nib\/config.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/lib\/nib\/config.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/lib\/css\/config.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/lib\/nib\/flex.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/lib\/nib\/flex.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/lib\/css\/flex.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/lib\/nib\/gradients.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/lib\/nib\/gradients.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/lib\/css\/gradients.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/lib\/nib\/iconic.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/lib\/nib\/iconic.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/lib\/css\/iconic.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/lib\/nib\/image.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/lib\/nib\/image.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/lib\/css\/image.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/lib\/nib\/index.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/lib\/nib\/index.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/lib\/css\/index.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/lib\/nib\/overflow.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/lib\/nib\/overflow.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/lib\/css\/overflow.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/lib\/nib\/positions.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/lib\/nib\/positions.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/lib\/css\/positions.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/lib\/nib\/reset.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/lib\/nib\/reset.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/lib\/css\/reset.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/lib\/nib\/size.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/lib\/nib\/size.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/lib\/css\/size.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/lib\/nib\/text\/aliases.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/lib\/nib\/text\/aliases.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/lib\/nib\/css\/aliases.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/lib\/nib\/text\/ellipsis.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/lib\/nib\/text\/ellipsis.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/lib\/nib\/css\/ellipsis.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/lib\/nib\/text\/hide-text.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/lib\/nib\/text\/hide-text.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/lib\/nib\/css\/hide-text.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/lib\/nib\/text\/index.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/lib\/nib\/text\/index.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/lib\/nib\/css\/index.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/lib\/nib\/text\/replace-text.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/lib\/nib\/text\/replace-text.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/lib\/nib\/css\/replace-text.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/lib\/nib\/vendor.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/lib\/nib\/vendor.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/lib\/css\/vendor.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/lib\/nodes\/color-image.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/lib\/nodes\/color-image.js",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/lib\/nodes\/min\/color-image-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/nib\/lib\/nodes\/gradient.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/lib\/nodes\/gradient.js",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/lib\/nodes\/min\/gradient-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/nib\/lib\/nodes\/vendor-helpers.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/lib\/nodes\/vendor-helpers.js",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/lib\/nodes\/min\/vendor-helpers-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/nib\/Readme.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/Readme.md",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/Readme.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/nib\/test\/cases\/absolute.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/cases\/absolute.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/nib\/test\/cases\/absolute.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/cases\/absolute.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/test\/css\/absolute.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/test\/cases\/border.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/cases\/border.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/nib\/test\/cases\/border.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/cases\/border.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/test\/css\/border.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/test\/cases\/clearfix.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/cases\/clearfix.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/nib\/test\/cases\/clearfix.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/cases\/clearfix.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/test\/css\/clearfix.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/test\/cases\/fixed.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/cases\/fixed.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/nib\/test\/cases\/fixed.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/cases\/fixed.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/test\/css\/fixed.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/test\/cases\/flex.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/cases\/flex.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/nib\/test\/cases\/flex.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/cases\/flex.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/test\/css\/flex.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/test\/cases\/image.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/cases\/image.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/nib\/test\/cases\/image.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/cases\/image.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/test\/css\/image.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/test\/cases\/importance.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/cases\/importance.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/nib\/test\/cases\/importance.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/cases\/importance.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/test\/css\/importance.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/test\/cases\/linear-gradient.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/cases\/linear-gradient.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/nib\/test\/cases\/linear-gradient.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/cases\/linear-gradient.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/test\/css\/linear-gradient.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/test\/cases\/multiple-gradients.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/cases\/multiple-gradients.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/nib\/test\/cases\/multiple-gradients.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/cases\/multiple-gradients.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/test\/css\/multiple-gradients.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/test\/cases\/radial-gradient.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/cases\/radial-gradient.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/nib\/test\/cases\/radial-gradient.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/cases\/radial-gradient.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/test\/css\/radial-gradient.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/test\/cases\/relative.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/cases\/relative.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/nib\/test\/cases\/text.ellipsis.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/cases\/text.ellipsis.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/nib\/test\/cases\/text.ellipsis.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/cases\/text.ellipsis.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/test\/css\/text.ellipsis.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/test\/cases\/vendor.border-radius.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/cases\/vendor.border-radius.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/nib\/test\/cases\/vendor.border-radius.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/cases\/vendor.border-radius.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/test\/css\/vendor.border-radius.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/test\/cases\/vendor.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/cases\/vendor.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/nib\/test\/cases\/vendor.placeholder.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/cases\/vendor.placeholder.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/nib\/test\/cases\/vendor.placeholder.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/cases\/vendor.placeholder.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/test\/css\/vendor.placeholder.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/test\/cases\/vendor.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/cases\/vendor.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/test\/css\/vendor.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/test\/cases\/vendor.values.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/cases\/vendor.values.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/nib\/test\/cases\/vendor.values.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/cases\/vendor.values.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/test\/css\/vendor.values.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/test\/clearfix.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/clearfix.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/css\/clearfix.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/test\/color-images.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/color-images.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/css\/color-images.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/test\/gradients.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/gradients.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/css\/gradients.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/bower_components\/nib\/test\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/index.jade",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/test\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
+		},
+	"\/bower_components\/nib\/test\/public\/jquery.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/public\/jquery.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/test\/public\/min\/jquery.min-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/nib\/test\/runner.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/runner.js",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/test\/min\/runner-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/nib\/test\/server.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/server.js",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/test\/min\/server-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/nib\/test\/test.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/bower_components\/nib\/test\/test.styl",
+		"outputAbbreviatedPath": "\/bower_components\/nib\/css\/test.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/category-corsi.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/category-corsi.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/category-spettacoli.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/category-spettacoli.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/bootstrap\/bootstrap-theme.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/bootstrap\/bootstrap-theme.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/bootstrap\/bootstrap.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/bootstrap\/bootstrap.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/chi-siamo.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/css\/chi-siamo.styl",
+		"outputAbbreviatedPath": "\/css\/chi-siamo.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/css\/footer.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/css\/footer.styl",
+		"outputAbbreviatedPath": "\/css\/footer.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/css\/general.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/css\/general.styl",
+		"outputAbbreviatedPath": "\/css\/general.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/css\/home.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/home.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/home.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/css\/home.styl",
+		"outputAbbreviatedPath": "\/css\/home.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/css\/navbar.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/navbar.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/navbar.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/css\/navbar.styl",
+		"outputAbbreviatedPath": "\/css\/navbar.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/css\/style.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/footer.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/footer.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/functions.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/functions.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/header.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/header.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/img\/anna.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20044,
+		"inputAbbreviatedPath": "\/img\/anna.jpg",
+		"outputAbbreviatedPath": "\/img\/anna.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/exagon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1728,
+		"inputAbbreviatedPath": "\/img\/exagon.png",
+		"outputAbbreviatedPath": "\/img\/exagon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/giacomo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12799,
+		"inputAbbreviatedPath": "\/img\/giacomo.jpg",
+		"outputAbbreviatedPath": "\/img\/giacomo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/giorgio.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12178,
+		"inputAbbreviatedPath": "\/img\/giorgio.jpg",
+		"outputAbbreviatedPath": "\/img\/giorgio.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/home.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.2974e+06,
+		"inputAbbreviatedPath": "\/img\/home.jpg",
+		"outputAbbreviatedPath": "\/img\/home.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17613,
+		"inputAbbreviatedPath": "\/img\/logo.png",
+		"outputAbbreviatedPath": "\/img\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/scroll.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3749,
+		"inputAbbreviatedPath": "\/img\/scroll.png",
+		"outputAbbreviatedPath": "\/img\/scroll.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/js\/menu.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/menu.js",
+		"outputAbbreviatedPath": "\/js\/min\/menu-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/menu.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/menu.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/menu.min-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/modernizr.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/modernizr.js",
+		"outputAbbreviatedPath": "\/js\/min\/modernizr-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/navbar.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/navbar.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/node_modules\/nib\/iconic\/demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/iconic\/demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/node_modules\/nib\/iconic\/iconic.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/iconic\/iconic.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/node_modules\/nib\/index.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/index.styl",
+		"outputAbbreviatedPath": "\/node_modules\/css\/index.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/node_modules\/nib\/lib\/nib.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/lib\/nib.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/lib\/min\/nib-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/lib\/nib\/border.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/lib\/nib\/border.styl",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/lib\/css\/border.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/node_modules\/nib\/lib\/nib\/clearfix.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/lib\/nib\/clearfix.styl",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/lib\/css\/clearfix.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/node_modules\/nib\/lib\/nib\/color-image.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/lib\/nib\/color-image.styl",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/lib\/css\/color-image.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/node_modules\/nib\/lib\/nib\/config.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/lib\/nib\/config.styl",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/lib\/css\/config.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/node_modules\/nib\/lib\/nib\/flex.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/lib\/nib\/flex.styl",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/lib\/css\/flex.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/node_modules\/nib\/lib\/nib\/gradients.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/lib\/nib\/gradients.styl",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/lib\/css\/gradients.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/node_modules\/nib\/lib\/nib\/iconic.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/lib\/nib\/iconic.styl",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/lib\/css\/iconic.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/node_modules\/nib\/lib\/nib\/image.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/lib\/nib\/image.styl",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/lib\/css\/image.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/node_modules\/nib\/lib\/nib\/index.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/lib\/nib\/index.styl",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/lib\/css\/index.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/node_modules\/nib\/lib\/nib\/overflow.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/lib\/nib\/overflow.styl",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/lib\/css\/overflow.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/node_modules\/nib\/lib\/nib\/positions.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/lib\/nib\/positions.styl",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/lib\/css\/positions.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/node_modules\/nib\/lib\/nib\/reset.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/lib\/nib\/reset.styl",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/lib\/css\/reset.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/node_modules\/nib\/lib\/nib\/size.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/lib\/nib\/size.styl",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/lib\/css\/size.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/node_modules\/nib\/lib\/nib\/text\/aliases.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/lib\/nib\/text\/aliases.styl",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/lib\/nib\/css\/aliases.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/node_modules\/nib\/lib\/nib\/text\/ellipsis.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/lib\/nib\/text\/ellipsis.styl",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/lib\/nib\/css\/ellipsis.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/node_modules\/nib\/lib\/nib\/text\/hide-text.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/lib\/nib\/text\/hide-text.styl",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/lib\/nib\/css\/hide-text.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/node_modules\/nib\/lib\/nib\/text\/index.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/lib\/nib\/text\/index.styl",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/lib\/nib\/css\/index.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/node_modules\/nib\/lib\/nib\/text\/replace-text.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/lib\/nib\/text\/replace-text.styl",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/lib\/nib\/css\/replace-text.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/node_modules\/nib\/lib\/nib\/text\/shadow-stroke.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/lib\/nib\/text\/shadow-stroke.styl",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/lib\/nib\/css\/shadow-stroke.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/node_modules\/nib\/lib\/nib\/vendor.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/lib\/nib\/vendor.styl",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/lib\/css\/vendor.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/node_modules\/nib\/lib\/nodes\/color-image.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/lib\/nodes\/color-image.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/lib\/nodes\/min\/color-image-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/lib\/nodes\/gradient.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/lib\/nodes\/gradient.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/lib\/nodes\/min\/gradient-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/lib\/nodes\/vendor-helpers.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/lib\/nodes\/vendor-helpers.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/lib\/nodes\/min\/vendor-helpers-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/bm.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/bm.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/min\/bm-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/index.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/index.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/min\/index-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/browserify.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/browserify.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/min\/browserify-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/colors.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/colors.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/min\/colors-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/convert\/css.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/convert\/css.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/convert\/min\/css-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/errors.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/errors.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/min\/errors-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/functions\/image.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/functions\/image.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/functions\/min\/image-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/functions\/index.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/functions\/index.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/functions\/min\/index-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/functions\/index.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/functions\/index.styl",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/css\/index.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/functions\/resolver.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/functions\/resolver.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/functions\/min\/resolver-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/functions\/url.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/functions\/url.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/functions\/min\/url-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/lexer.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/lexer.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/min\/lexer-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/middleware.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/middleware.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/min\/middleware-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/arguments.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/arguments.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/arguments-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/binop.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/binop.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/binop-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/block.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/block.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/block-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/boolean.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/boolean.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/boolean-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/call.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/call.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/call-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/charset.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/charset.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/charset-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/comment.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/comment.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/comment-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/each.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/each.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/each-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/expression.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/expression.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/expression-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/extend.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/extend.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/extend-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/fontface.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/fontface.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/fontface-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/function.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/function.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/function-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/group.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/group.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/group-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/hsla.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/hsla.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/hsla-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/ident.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/ident.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/ident-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/if.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/if.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/if-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/import.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/import.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/import-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/index.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/index.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/index-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/jsliteral.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/jsliteral.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/jsliteral-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/keyframes.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/keyframes.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/keyframes-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/literal.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/literal.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/literal-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/media.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/media.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/media-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/mozdocument.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/mozdocument.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/mozdocument-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/node.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/node.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/node-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/null.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/null.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/null-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/page.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/page.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/page-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/params.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/params.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/params-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/property.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/property.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/property-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/return.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/return.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/return-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/rgba.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/rgba.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/rgba-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/root.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/root.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/root-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/selector.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/selector.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/selector-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/string.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/string.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/string-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/ternary.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/ternary.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/ternary-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/unaryop.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/unaryop.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/unaryop-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/unit.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/unit.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/nodes\/min\/unit-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/parser.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/parser.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/min\/parser-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/renderer.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/renderer.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/min\/renderer-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/stack\/frame.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/stack\/frame.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/stack\/min\/frame-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/stack\/index.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/stack\/index.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/stack\/min\/index-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/stack\/scope.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/stack\/scope.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/stack\/min\/scope-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/stylus.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/stylus.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/min\/stylus-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/token.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/token.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/min\/token-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/units.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/units.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/min\/units-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/utils.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/utils.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/min\/utils-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/visitor\/compiler.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/visitor\/compiler.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/visitor\/min\/compiler-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/visitor\/evaluator.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/visitor\/evaluator.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/visitor\/min\/evaluator-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/visitor\/index.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/visitor\/index.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/visitor\/min\/index-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/lib\/visitor\/normalizer.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/visitor\/normalizer.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/lib\/visitor\/min\/normalizer-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/clone.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/clone.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/min\/clone-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/CSSFontFaceRule.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/CSSFontFaceRule.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/min\/CSSFontFaceRule-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/CSSImportRule.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/CSSImportRule.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/min\/CSSImportRule-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/CSSKeyframeRule.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/CSSKeyframeRule.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/min\/CSSKeyframeRule-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/CSSKeyframesRule.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/CSSKeyframesRule.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/min\/CSSKeyframesRule-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/CSSMediaRule.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/CSSMediaRule.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/min\/CSSMediaRule-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/CSSRule.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/CSSRule.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/min\/CSSRule-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/CSSStyleDeclaration.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/CSSStyleDeclaration.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/min\/CSSStyleDeclaration-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/CSSStyleRule.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/CSSStyleRule.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/min\/CSSStyleRule-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/CSSStyleSheet.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/CSSStyleSheet.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/min\/CSSStyleSheet-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/index.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/index.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/min\/index-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/MediaList.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/MediaList.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/min\/MediaList-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/parse.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/parse.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/min\/parse-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/StyleSheet.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/StyleSheet.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/cssom\/lib\/min\/StyleSheet-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/debug\/browser.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/debug\/browser.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/debug\/min\/browser-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/debug\/debug.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/debug\/debug.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/debug\/min\/debug-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/debug\/History.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/debug\/History.md",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/debug\/History.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/debug\/node.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/debug\/node.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/debug\/min\/node-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/debug\/node_modules\/ms\/index.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/debug\/node_modules\/ms\/index.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/debug\/node_modules\/ms\/min\/index-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/debug\/node_modules\/ms\/README.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/debug\/node_modules\/ms\/README.md",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/debug\/node_modules\/ms\/README.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/debug\/Readme.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/debug\/Readme.md",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/debug\/Readme.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/examples\/pow.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/examples\/pow.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/examples\/min\/pow-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/index.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/index.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/min\/index-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/chmod.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/chmod.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/min\/chmod-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/clobber.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/clobber.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/min\/clobber-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/mkdirp.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/mkdirp.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/min\/mkdirp-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/perm.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/perm.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/min\/perm-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/perm_sync.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/perm_sync.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/min\/perm_sync-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/race.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/race.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/min\/race-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/rel.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/rel.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/min\/rel-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/return.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/return.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/min\/return-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/return_sync.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/return_sync.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/min\/return_sync-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/root.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/root.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/min\/root-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/sync.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/sync.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/min\/sync-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/umask.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/umask.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/min\/umask-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/umask_sync.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/umask_sync.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/mkdirp\/test\/min\/umask_sync-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/examples\/example.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/examples\/example.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/examples\/min\/example-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/examples\/get-products.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/examples\/get-products.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/examples\/min\/get-products-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/examples\/hello-world.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/examples\/hello-world.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/examples\/min\/hello-world-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/examples\/pretty-print.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/examples\/pretty-print.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/examples\/min\/pretty-print-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/examples\/test.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/examples\/test.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/lib\/sax.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/lib\/sax.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/lib\/min\/sax-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/LICENSE-W3C.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/LICENSE-W3C.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/README.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/README.md",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/README.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/attribute-name.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/attribute-name.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/attribute-name-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/attribute-no-space.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/attribute-no-space.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/attribute-no-space-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/buffer-overrun.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/buffer-overrun.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/buffer-overrun-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/case.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/case.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/case-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/cdata-chunked.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/cdata-chunked.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/cdata-chunked-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/cdata-end-split.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/cdata-end-split.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/cdata-end-split-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/cdata-fake-end.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/cdata-fake-end.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/cdata-fake-end-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/cdata-multiple.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/cdata-multiple.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/cdata-multiple-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/cdata.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/cdata.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/cdata-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/cyrillic.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/cyrillic.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/cyrillic-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/duplicate-attribute.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/duplicate-attribute.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/duplicate-attribute-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/end_empty_stream.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/end_empty_stream.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/end_empty_stream-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/entities.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/entities.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/entities-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/entity-mega.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/entity-mega.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/entity-mega-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/flush.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/flush.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/flush-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/index.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/index.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/index-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/issue-23.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/issue-23.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/issue-23-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/issue-30.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/issue-30.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/issue-30-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/issue-35.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/issue-35.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/issue-35-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/issue-47.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/issue-47.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/issue-47-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/issue-49.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/issue-49.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/issue-49-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/issue-84.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/issue-84.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/issue-84-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/parser-position.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/parser-position.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/parser-position-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/script-close-better.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/script-close-better.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/script-close-better-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/script.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/script.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/script-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/self-closing-child-strict.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/self-closing-child-strict.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/self-closing-child-strict-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/self-closing-child.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/self-closing-child.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/self-closing-child-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/self-closing-tag.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/self-closing-tag.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/self-closing-tag-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/stray-ending.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/stray-ending.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/stray-ending-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/trailing-attribute-no-value.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/trailing-attribute-no-value.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/trailing-attribute-no-value-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/trailing-non-whitespace.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/trailing-non-whitespace.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/trailing-non-whitespace-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/unclosed-root.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/unclosed-root.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/unclosed-root-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/unquoted.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/unquoted.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/unquoted-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/utf8-split.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/utf8-split.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/utf8-split-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/xmlns-as-tag-name.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/xmlns-as-tag-name.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/xmlns-as-tag-name-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/xmlns-issue-41.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/xmlns-issue-41.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/xmlns-issue-41-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/xmlns-rebinding.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/xmlns-rebinding.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/xmlns-rebinding-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/xmlns-strict.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/xmlns-strict.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/xmlns-strict-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/xmlns-unbound-element.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/xmlns-unbound-element.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/xmlns-unbound-element-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/xmlns-unbound.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/xmlns-unbound.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/xmlns-unbound-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/xmlns-xml-default-ns.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/xmlns-xml-default-ns.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/xmlns-xml-default-ns-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/xmlns-xml-default-prefix-attribute.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/xmlns-xml-default-prefix-attribute.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/xmlns-xml-default-prefix-attribute-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/xmlns-xml-default-prefix.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/xmlns-xml-default-prefix.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/xmlns-xml-default-prefix-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/xmlns-xml-default-redefine.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/xmlns-xml-default-redefine.js",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/node_modules\/sax\/test\/min\/xmlns-xml-default-redefine-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/node_modules\/nib\/node_modules\/stylus\/Readme.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/Readme.md",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/node_modules\/stylus\/Readme.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/node_modules\/nib\/Readme.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/node_modules\/nib\/Readme.md",
+		"outputAbbreviatedPath": "\/node_modules\/nib\/Readme.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/pages\/page-bio.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/pages\/page-bio.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/pages\/page-contatti.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/pages\/page-contatti.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/pages\/page-events.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/pages\/page-events.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/pages\/page-gallery.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/pages\/page-gallery.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/README.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/README.md",
+		"outputAbbreviatedPath": "\/README.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/single-corsi.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/single-corsi.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/single-persone.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/single-persone.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/single-spettacoli.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/single-spettacoli.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/style.styl": {
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 1,
+		"inputAbbreviatedPath": "\/style.styl",
+		"outputAbbreviatedPath": "\/style.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		}
+	},
+"hooks": [
+	],
+"lastSavedByUser": "Giulio",
+"manualImportLinks": {
+	},
+"projectAttributes": {
+	"bowerAbbreviatedPath": "",
+	"displayValue": "TeatroBresci",
+	"displayValueWasSetByUser": 0,
+	"iconImageName": "harddrive_gray"
+	},
+"projectSettings": {
+	"alwaysUseExternalServer": 1,
+	"animateCSSInjections": 1,
+	"autoApplyPSLanguageSettingsStyle": 0,
+	"autoprefixerBrowserString": "> 1%, last 2 versions, ff 17, opera 12.1",
+	"autoSyncProjectSettingsFile": 1,
+	"browserRefreshDelay": 0,
+	"coffeeAutoOutputPathRelativePath": "",
+	"coffeeAutoOutputPathReplace1": "",
+	"coffeeAutoOutputPathReplace2": "",
+	"coffeeAutoOutputPathStyle": 0,
+	"coffeeCreateSourceMap": 0,
+	"coffeeLintFlags2": {
+		"arrow_spacing": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camel_case_classes": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"colon_assignment_spacing": {
+			"active": 0,
+			"flagValue": 1
+			},
+		"cyclomatic_complexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"duplicate_key": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indentation": {
+			"active": 1,
+			"flagValue": 2
+			},
+		"line_endings": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"max_line_length": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"missing_fat_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newlines_after_classes": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"no_backticks": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_empty_param_list": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_implicit_braces": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_stand_alone_at": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_tabs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_throwing_strings": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_whitespace": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"non_empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space_operators": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"coffeeMinifyOutput": 1,
+	"coffeeOutputStyle": 0,
+	"coffeeSyntaxCheckerStyle": 1,
+	"externalServerAddress": "http:\/\/localhost:8888\/",
+	"externalServerPreviewPathAddition": "",
+	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
+	"hamlAutoOutputPathRelativePath": "",
+	"hamlAutoOutputPathReplace1": "",
+	"hamlAutoOutputPathReplace2": "",
+	"hamlAutoOutputPathStyle": 0,
+	"hamlEscapeHTMLCharacters": 0,
+	"hamlNoEscapeInAttributes": 0,
+	"hamlOutputFormat": 2,
+	"hamlOutputStyle": 0,
+	"hamlUseCDATA": 0,
+	"hamlUseDoubleQuotes": 0,
+	"hamlUseUnixNewlines": 0,
+	"jadeAutoOutputPathRelativePath": "",
+	"jadeAutoOutputPathReplace1": "",
+	"jadeAutoOutputPathReplace2": "",
+	"jadeAutoOutputPathStyle": 0,
+	"jadeCompileDebug": 1,
+	"jadeOutputStyle": 0,
+	"javascriptAutoOutputPathRelativePath": "\/min",
+	"javascriptAutoOutputPathReplace1": "",
+	"javascriptAutoOutputPathReplace2": "",
+	"javascriptAutoOutputPathStyle": 2,
+	"javascriptCreateSourceMap": 1,
+	"javascriptOutputStyle": 1,
+	"javascriptOutputSuffix": "-ck",
+	"javascriptSyntaxCheckerStyle": 1,
+	"jsCheckerReservedNamesString": "",
+	"jsHintFlags2": {
+		"asi": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"boss": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"camelcase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"curly": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"dojo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eqeqeq": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqnull": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es3": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"esnext": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"expr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"freeze": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"funcscope": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"globalstrict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"immed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"iterator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jquery": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"lastsemic": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"latedef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"laxbreak": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"laxcomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loopfunc": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxcomplexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"maxdepth": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"maxparams": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxstatements": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"mootools": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"moz": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"multistr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newcap": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noarg": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"noempty": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonbsp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonew": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nonstandard": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"notypeof": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noyield": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"onecase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"phantom": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prototypejs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"scripturl": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shadow": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shelljs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"strict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"supernew": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"typed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"undef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"withstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"worker": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"wsh": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"yui": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsLintFlags2": {
+		"ass": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"closure": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"continue": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eqeq": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"newcap": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nomen": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"properties": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sloppy": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"stupid": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"todo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unparam": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"white": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"kitAutoOutputPathRelativePath": "",
+	"kitAutoOutputPathReplace1": "",
+	"kitAutoOutputPathReplace2": "",
+	"kitAutoOutputPathStyle": 0,
+	"lessAllowInsecureImports": 0,
+	"lessAutoOutputPathRelativePath": "..\/css",
+	"lessAutoOutputPathReplace1": "less",
+	"lessAutoOutputPathReplace2": "css",
+	"lessAutoOutputPathStyle": 2,
+	"lessCreateSourceMap": 0,
+	"lessDisableJavascript": 0,
+	"lessIeCompatibility": 1,
+	"lessOutputStyle": 0,
+	"lessRelativeURLS": 0,
+	"lessStrictImports": 0,
+	"lessStrictMath": 0,
+	"lessStrictUnits": 0,
+	"markdownAutoOutputPathRelativePath": "",
+	"markdownAutoOutputPathReplace1": "",
+	"markdownAutoOutputPathReplace2": "",
+	"markdownAutoOutputPathStyle": 0,
+	"markdownEnableFootnotes": 0,
+	"markdownEnableSmartyPants": 1,
+	"markdownExpandTabs": 1,
+	"reloadFileURLs": 0,
+	"sassAutoOutputPathRelativePath": "..\/css",
+	"sassAutoOutputPathReplace1": "sass",
+	"sassAutoOutputPathReplace2": "css",
+	"sassAutoOutputPathStyle": 2,
+	"sassCreateSourceMap": 0,
+	"sassDebugStyle": 0,
+	"sassDecimalPrecision": 5,
+	"sassOutputStyle": 0,
+	"sassUseLibsass": 0,
+	"shouldRunAutoprefixer": 0,
+	"shouldRunBless": 0,
+	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs",
+	"slimAutoOutputPathRelativePath": "",
+	"slimAutoOutputPathReplace1": "",
+	"slimAutoOutputPathReplace2": "",
+	"slimAutoOutputPathStyle": 0,
+	"slimCompileOnly": 0,
+	"slimLogicless": 0,
+	"slimOutputStyle": 1,
+	"slimRailsCompatible": 0,
+	"stylusAutoOutputPathRelativePath": "..\/css",
+	"stylusAutoOutputPathReplace1": "stylus",
+	"stylusAutoOutputPathReplace2": "css",
+	"stylusAutoOutputPathStyle": 2,
+	"stylusDebugStyle": 0,
+	"stylusImportCSS": 0,
+	"stylusOutputStyle": 0,
+	"stylusResolveRelativeURLS": 0,
+	"typescriptAutoOutputPathRelativePath": "\/js",
+	"typescriptAutoOutputPathReplace1": "",
+	"typescriptAutoOutputPathReplace2": "",
+	"typescriptAutoOutputPathStyle": 2,
+	"typescriptCreateDeclarationFile": 0,
+	"typescriptCreateSourceMap": 0,
+	"typescriptMinifyOutput": 0,
+	"typescriptModuleType": 0,
+	"typescriptNoImplicitAny": 0,
+	"typescriptNoResolve": 0,
+	"typescriptRemoveComments": 0,
+	"typescriptTargetECMAVersion": 0,
+	"uglifyDefinesString": "",
+	"uglifyFlags2": {
+		"ascii-only": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"booleans": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"bracketize": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"cascade": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comparisons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"compress": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"conditionals": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evaluate": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indent-level": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"indent-start": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"inline-script": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"join_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"loops": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"mangle": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"max-line-len": {
+			"active": 1,
+			"flagValue": 32000
+			},
+		"properties": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"quote-keys": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"screw-ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sequences": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sort": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space-colon": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"toplevel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"warnings": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"width": {
+			"active": 1,
+			"flagValue": 80
+			}
+		},
+	"uglifyReservedNamesString": "$",
+	"websiteRelativeRoot": ""
+	},
+"settingsFileVersion": "2"
+}
