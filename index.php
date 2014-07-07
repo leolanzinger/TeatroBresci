@@ -2,10 +2,12 @@
 
 <div id="parallax-wrapper">
   <div id="home-parallax">
-    <p id="scroll-me" >
-      Scopri<br>
-      <img class="floatx" src="<?php bloginfo( 'template_url' ); ?>/img/scroll.png">
-    </p>
+    <a href="#home-intro">
+      <p id="scroll-me" >
+        Scopri<br>
+        <img class="floatx" src="<?php bloginfo( 'template_url' ); ?>/img/scroll.png">
+      </p>
+    </a>
   </div>
 </div>
 
@@ -36,18 +38,22 @@
         <p><button>Eventi successivi</button></p>
       </ul>
 
+    </div>
+    <div class="col-sm-5" id="facebook">
+      <h2>News</h2>
+      <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FCompagniaTeatroBresci&amp;height=800&amp;colorscheme=light&amp;show_faces=false&amp;header=false&amp;stream=true&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100%; height:800px;" allowTransparency="true"></iframe>
 
       <!-- Begin MailChimp Signup Form -->
       <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
       <style type="text/css">
-        #mc_embed_signup{background: #DFDFDF; clear:left; font-size:16px; border-radius: 5px; margin-top: 4em;}
-        #mc_embed_signup .button {background-color: #DB6453; font-size: 18px;}
-        #mc_embed_signup input { border: transparent; -webkit-appearance: none; border-radius: 5px;}
-        #mc_embed_signup .clear {text-align: center;}
+        .homepage-newsletter#mc_embed_signup{background: #DFDFDF; clear:left; font-size:16px; border-radius: 5px; margin-top: 4em;}
+        .homepage-newsletter#mc_embed_signup .button {background-color: #DB6453; font-size: 18px;}
+        .homepage-newsletter#mc_embed_signup input { border: transparent; -webkit-appearance: none; border-radius: 5px;}
+        .homepage-newsletter#mc_embed_signup .clear {text-align: center;}
         /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
            We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
       </style>
-      <div id="mc_embed_signup">
+      <div class="homepage-newsletter" id="mc_embed_signup">
       <form action="//teatrobresci.us8.list-manage.com/subscribe/post?u=cb37c01b5622dac69f092e069&amp;id=bc778e8184" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
         <h2>Iscriviti alla newsletter per non perdere spettacoli e corsi di Teatro Bresci.</h2>
       <div class="indicates-required"><span class="asterisk">*</span> campi obbligatori</div>
@@ -103,11 +109,6 @@
       var $mcj = jQuery.noConflict(true);
       </script>
       <!--End mc_embed_signup-->
-
-    </div>
-    <div class="col-sm-5" id="facebook">
-      <h2>News</h2>
-      <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FCompagniaTeatroBresci&amp;height=800&amp;colorscheme=light&amp;show_faces=false&amp;header=false&amp;stream=true&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100%; height:800px;" allowTransparency="true"></iframe>
     </div>
   </div>
 </div>

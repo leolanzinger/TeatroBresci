@@ -4,16 +4,17 @@ Template Name: Chi siamo Page
 */
 get_header(); ?>
 <div class="container">
-<h1 id="bio-title">Chi siamo</h1>
-	<?php
-	  if ( have_posts() ) {
-	    while ( have_posts() ) {
-	      the_post();
-	      the_content();
-	    }
-	  }
-	?>
-
+	<div class="row">
+		<h1 id="bio-title">Chi siamo</h1>
+			<?php
+			  if ( have_posts() ) {
+			    while ( have_posts() ) {
+			      the_post();
+			      the_content();
+			    }
+			  }
+			?>
+	</div>
 	<hr/>
 
 	<?php
