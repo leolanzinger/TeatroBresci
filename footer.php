@@ -29,16 +29,22 @@
               .bottom-newsletter#mc_embed_signup input { border: transparent; -webkit-appearance: none; border-radius: 5px;}
               .bottom-newsletter#mc_embed_signup .clear {text-align: center;}
               input {color: black;}
+              .bottom-newsletter#mc_embed_signup #mce-success-response {
+                text-align: left;
+                background: white;
+                padding: 0.8em;
+                width: 100%;
+                border-radius: 5px;
+                font-weight: 300;
+              }
               /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
                  We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
             </style>
             <div id="mc_embed_signup" class="bottom-newsletter">
               <form action="//teatrobresci.us8.list-manage.com/subscribe/post?u=cb37c01b5622dac69f092e069&amp;id=bc778e8184" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                 <h2>Iscriviti alla newsletter per non perdere spettacoli e corsi di Teatro Bresci.</h2>
-                <div class="indicates-required"><span class="asterisk">*</span> campi obbligatori</div>
                 <div class="mc-field-group">
-                  <label for="mce-EMAIL">Email  <span class="asterisk">*</span>
-                  </label>
+                  <label for="mce-EMAIL">Email</label>
                   <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
                 </div>
                 <div id="mce-responses" class="clear">
