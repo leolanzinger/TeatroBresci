@@ -33,34 +33,43 @@
           <p class="events-name"><strong>Sunil Superstar</strong></p>
           <p class="events-place"><em>Rolling Stone di Milano - 18.00</em></p>
         </li>
-        <button>Eventi successivi</button>
+        <p><button>Eventi successivi</button></p>
       </ul>
 
-      <h2>Iscriviti alla newsletter</h2>
-      <p><strong>Iscriviti per restare aggiornato sui nostri corsi ed eventi.</strong></p>
-      
+
       <!-- Begin MailChimp Signup Form -->
       <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
       <style type="text/css">
-        #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+        #mc_embed_signup{background: #DFDFDF; clear:left; font-size:16px; border-radius: 5px; margin-top: 4em;}
+        #mc_embed_signup .button {background-color: #DB6453; font-size: 18px;}
+        #mc_embed_signup input { border: transparent; -webkit-appearance: none; border-radius: 5px;}
+        #mc_embed_signup .clear {text-align: center;}
         /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
            We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
       </style>
       <div id="mc_embed_signup">
       <form action="//teatrobresci.us8.list-manage.com/subscribe/post?u=cb37c01b5622dac69f092e069&amp;id=bc778e8184" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-        <h2>Iscriviti alla nostra newsletter</h2>
-      <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+        <h2>Iscriviti alla newsletter per non perdere spettacoli e corsi di Teatro Bresci.</h2>
+      <div class="indicates-required"><span class="asterisk">*</span> campi obbligatori</div>
       <div class="mc-field-group">
         <label for="mce-EMAIL">Email  <span class="asterisk">*</span>
       </label>
         <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+      </div>
+      <div class="mc-field-group">
+        <label for="mce-FNAME">Nome </label>
+        <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+      </div>
+      <div class="mc-field-group">
+        <label for="mce-LNAME">Cognome </label>
+        <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
       </div>
         <div id="mce-responses" class="clear">
           <div class="response" id="mce-error-response" style="display:none"></div>
           <div class="response" id="mce-success-response" style="display:none"></div>
         </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
           <div style="position: absolute; left: -5000px;"><input type="text" name="b_cb37c01b5622dac69f092e069_bc778e8184" tabindex="-1" value=""></div>
-          <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+          <div class="clear"><input type="submit" value="Iscriviti" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
       </form>
       </div>
       <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
@@ -94,7 +103,7 @@
       var $mcj = jQuery.noConflict(true);
       </script>
       <!--End mc_embed_signup-->
-      
+
     </div>
     <div class="col-sm-5" id="facebook">
       <h2>News</h2>

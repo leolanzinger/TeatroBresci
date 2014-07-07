@@ -11,6 +11,21 @@ Tags: teatro bresci, teatro, citadella, babbies production
 Text Domain: teatrobresci teatro bresci
 */
 @import "css/bootstrap/bootstrap.css";
+h2 {
+  font-size: 2.3em;
+  color: #2c3e50;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+h1 {
+  font-size: 5em;
+  color: #d46156;
+  margin-top: 14px;
+  margin-bottom: 0;
+}
+ul {
+  padding: 0;
+}
 #navbar-logo {
   border-top: 0;
   width: 150px;
@@ -20,12 +35,15 @@ Text Domain: teatrobresci teatro bresci
 }
 #navbar-logo a img {
   position: relative;
-  top: 1em;
   width: 80%;
+  margin-top: -25px;
 }
-.container {
+.menu-container {
+  background: #000;
   z-index: 250;
   position: relative;
+  padding-top: 1em;
+  padding-bottom: 0.5em;
 }
 .cbp-hrmenu {
   width: 100%;
@@ -183,33 +201,33 @@ a {
 a:hover {
   color: #000;
 }
-.container > header {
+.menu-container > header {
   width: 90%;
   max-width: 70em;
   margin: 0 auto;
   padding: 0 1.875em 3.125em 1.875em;
 }
-.container > header {
+.menu-container > header {
   padding: 2.875em 1.875em 1.875em;
 }
-.container > header h1 {
+.menu-container > header h1 {
   font-size: 2.125em;
   line-height: 1.3;
   margin: 0;
   float: left;
   font-weight: 400;
 }
-.container > header span {
+.menu-container > header span {
   display: block;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.5em;
   padding: 0 0 0.6em 0.1em;
 }
-.container > header nav {
+.menu-container > header nav {
   float: right;
 }
-.container > header nav a {
+.menu-container > header nav a {
   display: block;
   float: left;
   position: relative;
@@ -222,7 +240,7 @@ a:hover {
   border: 4px solid #47a3da;
   text-indent: -8000px;
 }
-.container > header nav a:after {
+.menu-container > header nav a:after {
   content: attr(data-info);
   color: #47a3da;
   position: absolute;
@@ -233,10 +251,10 @@ a:hover {
   opacity: 0;
   pointer-events: none;
 }
-.container > header nav a:hover:after {
+.menu-container > header nav a:hover:after {
   opacity: 1;
 }
-.container > header nav a:hover {
+.menu-container > header nav a:hover {
   background: #47a3da;
 }
 .icon-drop:before,
@@ -256,7 +274,7 @@ a:hover {
   text-indent: 8000px;
   padding-left: 8px;
 }
-.container > header nav a:hover:before {
+.menu-container > header nav a:hover:before {
   color: #fff;
 }
 .icon-drop:before {
@@ -272,7 +290,7 @@ h2 {
   position: relative;
 }
 #home-parallax {
-  background: url("../img/home.jpg");
+  background: url("img/home.jpg");
   height: 650px;
   background-repeat: no-repeat;
   -webkit-background-size: cover;
@@ -312,7 +330,6 @@ h2 {
 }
 #home-intro {
   font-size: 24px;
-  max-width: 44em;
   margin: 1em auto;
 }
 #home-events {
@@ -320,7 +337,7 @@ h2 {
   margin-bottom: 1em;
 }
 .events-date-wrapper {
-  background: url("../img/exagon.png");
+  background: url("img/exagon.png");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -348,51 +365,236 @@ h2 {
   margin: 0;
   font-size: 1.4em;
 }
+#facebook iframe {
+  height: 600px;
+}
 @-moz-keyframes Floatingx {
   0% {
     -webkit-transform: translate(0, 0px);
+    -moz-transform: translate(0, 0px);
+    -o-transform: translate(0, 0px);
+    -ms-transform: translate(0, 0px);
+    transform: translate(0, 0px);
   }
-  55% {
-    -webkit-transform: translate(0, 3px);
+  8% {
+    -webkit-transform: translate(0, 5px);
+    -moz-transform: translate(0, 5px);
+    -o-transform: translate(0, 5px);
+    -ms-transform: translate(0, 5px);
+    transform: translate(0, 5px);
+  }
+  16% {
+    -webkit-transform: translate(0, 0px);
+    -moz-transform: translate(0, 0px);
+    -o-transform: translate(0, 0px);
+    -ms-transform: translate(0, 0px);
+    transform: translate(0, 0px);
+  }
+  24% {
+    -webkit-transform: translate(0, 5px);
+    -moz-transform: translate(0, 5px);
+    -o-transform: translate(0, 5px);
+    -ms-transform: translate(0, 5px);
+    transform: translate(0, 5px);
+  }
+  32% {
+    -webkit-transform: translate(0, 1px);
+    -moz-transform: translate(0, 1px);
+    -o-transform: translate(0, 1px);
+    -ms-transform: translate(0, 1px);
+    transform: translate(0, 1px);
   }
   100% {
-    -webkit-transform: translate(0, 0px);
+    -webkit-transform: translate(0, -1px);
+    -moz-transform: translate(0, -1px);
+    -o-transform: translate(0, -1px);
+    -ms-transform: translate(0, -1px);
+    transform: translate(0, -1px);
   }
 }
 @-webkit-keyframes Floatingx {
   0% {
     -webkit-transform: translate(0, 0px);
+    -moz-transform: translate(0, 0px);
+    -o-transform: translate(0, 0px);
+    -ms-transform: translate(0, 0px);
+    transform: translate(0, 0px);
   }
-  55% {
-    -webkit-transform: translate(0, 3px);
+  8% {
+    -webkit-transform: translate(0, 5px);
+    -moz-transform: translate(0, 5px);
+    -o-transform: translate(0, 5px);
+    -ms-transform: translate(0, 5px);
+    transform: translate(0, 5px);
+  }
+  16% {
+    -webkit-transform: translate(0, 0px);
+    -moz-transform: translate(0, 0px);
+    -o-transform: translate(0, 0px);
+    -ms-transform: translate(0, 0px);
+    transform: translate(0, 0px);
+  }
+  24% {
+    -webkit-transform: translate(0, 5px);
+    -moz-transform: translate(0, 5px);
+    -o-transform: translate(0, 5px);
+    -ms-transform: translate(0, 5px);
+    transform: translate(0, 5px);
+  }
+  32% {
+    -webkit-transform: translate(0, 1px);
+    -moz-transform: translate(0, 1px);
+    -o-transform: translate(0, 1px);
+    -ms-transform: translate(0, 1px);
+    transform: translate(0, 1px);
   }
   100% {
-    -webkit-transform: translate(0, 0px);
+    -webkit-transform: translate(0, -1px);
+    -moz-transform: translate(0, -1px);
+    -o-transform: translate(0, -1px);
+    -ms-transform: translate(0, -1px);
+    transform: translate(0, -1px);
   }
 }
 @-o-keyframes Floatingx {
   0% {
     -webkit-transform: translate(0, 0px);
+    -moz-transform: translate(0, 0px);
+    -o-transform: translate(0, 0px);
+    -ms-transform: translate(0, 0px);
+    transform: translate(0, 0px);
   }
-  55% {
-    -webkit-transform: translate(0, 3px);
+  8% {
+    -webkit-transform: translate(0, 5px);
+    -moz-transform: translate(0, 5px);
+    -o-transform: translate(0, 5px);
+    -ms-transform: translate(0, 5px);
+    transform: translate(0, 5px);
+  }
+  16% {
+    -webkit-transform: translate(0, 0px);
+    -moz-transform: translate(0, 0px);
+    -o-transform: translate(0, 0px);
+    -ms-transform: translate(0, 0px);
+    transform: translate(0, 0px);
+  }
+  24% {
+    -webkit-transform: translate(0, 5px);
+    -moz-transform: translate(0, 5px);
+    -o-transform: translate(0, 5px);
+    -ms-transform: translate(0, 5px);
+    transform: translate(0, 5px);
+  }
+  32% {
+    -webkit-transform: translate(0, 1px);
+    -moz-transform: translate(0, 1px);
+    -o-transform: translate(0, 1px);
+    -ms-transform: translate(0, 1px);
+    transform: translate(0, 1px);
   }
   100% {
-    -webkit-transform: translate(0, 0px);
+    -webkit-transform: translate(0, -1px);
+    -moz-transform: translate(0, -1px);
+    -o-transform: translate(0, -1px);
+    -ms-transform: translate(0, -1px);
+    transform: translate(0, -1px);
   }
 }
 @keyframes Floatingx {
   0% {
     -webkit-transform: translate(0, 0px);
+    -moz-transform: translate(0, 0px);
+    -o-transform: translate(0, 0px);
+    -ms-transform: translate(0, 0px);
+    transform: translate(0, 0px);
   }
-  55% {
-    -webkit-transform: translate(0, 3px);
+  8% {
+    -webkit-transform: translate(0, 5px);
+    -moz-transform: translate(0, 5px);
+    -o-transform: translate(0, 5px);
+    -ms-transform: translate(0, 5px);
+    transform: translate(0, 5px);
+  }
+  16% {
+    -webkit-transform: translate(0, 0px);
+    -moz-transform: translate(0, 0px);
+    -o-transform: translate(0, 0px);
+    -ms-transform: translate(0, 0px);
+    transform: translate(0, 0px);
+  }
+  24% {
+    -webkit-transform: translate(0, 5px);
+    -moz-transform: translate(0, 5px);
+    -o-transform: translate(0, 5px);
+    -ms-transform: translate(0, 5px);
+    transform: translate(0, 5px);
+  }
+  32% {
+    -webkit-transform: translate(0, 1px);
+    -moz-transform: translate(0, 1px);
+    -o-transform: translate(0, 1px);
+    -ms-transform: translate(0, 1px);
+    transform: translate(0, 1px);
   }
   100% {
-    -webkit-transform: translate(0, 0px);
+    -webkit-transform: translate(0, -1px);
+    -moz-transform: translate(0, -1px);
+    -o-transform: translate(0, -1px);
+    -ms-transform: translate(0, -1px);
+    transform: translate(0, -1px);
   }
 }
-h2 {
-  font-size: 2em;
-  color: #2c3e50;
+footer {
+  background: #303030;
+  width: 100%;
+  margin-top: 1.5em;
+  color: #fff;
+}
+#footer-contatti {
+  text-align: left;
+}
+#footer-contatti img {
+  margin-right: 1em;
+  margin-bottom: 0.5em;
+  height: 2em;
+}
+#footer-credits {
+  text-align: right;
+}
+#footer-logo {
+  text-align: center;
+}
+#footer-logo img {
+  width: 100px;
+}
+#bio-title {
+  color: #d46156;
+  font-size: 5em;
+  margin-bottom: 0;
+  margin-top: 14px;
+}
+.actor-photo {
+  float: left;
+  margin-right: 1em;
+  margin-bottom: 1em;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+}
+.actor-photo img {
+  height: 100%;
+  width: auto;
+}
+.actor-name {
+  margin-top: 0;
+  color: #d46156;
+  font-family: Georgia, serif;
+}
+.actor-description p {
+  font-size: 14px;
+  line-height: 1.2em;
+}
+.persone-header img {
+  width: 100%;
+  height: auto;
 }
