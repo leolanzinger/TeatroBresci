@@ -12,7 +12,17 @@
                   <!-- Begin MailChimp Signup Form -->
       <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
       <style type="text/css">
-        .bottom-newsletter#mc_embed_signup {background: none; clear:left; font-size:16px; border-radius: 5px; margin-top: 0; margin-bottom: 2em; padding: 2px 0px 0px 10px; background: grey;}
+        .bottom-newsletter#mc_embed_signup {
+          background: none; 
+          clear:left; 
+          font-size:16px; 
+          border-radius: 5px; 
+          margin-top: 0; 
+          margin-bottom: 2em; 
+          padding: 2px 0px 0px 10px; 
+          border: 1px solid grey;
+          margin-left: -10px;
+        }
         .bottom-newsletter#mc_embed_signup form {padding: 0;}
         .bottom-newsletter#mc_embed_signup h2 {color: white; font-size: 16px;}
         .bottom-newsletter#mc_embed_signup .button {background-color: #DB6453; font-size: 18px;}
