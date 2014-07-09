@@ -10,6 +10,7 @@ get_header(); ?>
     
   <div id="spettacoli-container">
     <div class="spettacoli-mask">
+      <h2 class="spettacoli-title">Prosa</h2>
       <img src="<?php bloginfo( 'template_url' ); ?>/img/home.jpg">
     </div>
     <div class="spettacoli-mask">

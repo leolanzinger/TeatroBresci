@@ -556,6 +556,22 @@ h2 {
   -ms-transform: skewX(20deg);
   transform: skewX(20deg);
 }
+.spettacoli-title {
+  position: absolute;
+  top: 0;
+  -webkit-transform: skewX(20deg);
+  -moz-transform: skewX(20deg);
+  -o-transform: skewX(20deg);
+  -ms-transform: skewX(20deg);
+  transform: skewX(20deg);
+  font-family: Georgia, serif;
+  color: #fff;
+  right: 0;
+  z-index: 200;
+  margin-top: 0.4em;
+  margin-right: 1em;
+  text-shadow: 0 1px 1px #353535;
+}
 @media screen and (max-width: 768px) {
   .spettacoli-mask {
     width: 49%;
