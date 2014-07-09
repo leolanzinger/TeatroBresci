@@ -37,38 +37,33 @@
         </li>
         <p><button>Eventi successivi</button></p>
       </ul>
-
     </div>
+
+    
     <div class="col-sm-5" id="facebook">
       <h2>News</h2>
-      <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FCompagniaTeatroBresci&amp;height=800&amp;colorscheme=light&amp;show_faces=false&amp;header=false&amp;stream=true&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100%; height:800px;" allowTransparency="true"></iframe>
-
+      <!-- Begin Facebook widget -->
+      <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FCompagniaTeatroBresci&amp;height=500&amp;colorscheme=light&amp;show_faces=false&amp;header=false&amp;stream=true&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100%; height:500px;" allowTransparency="true"></iframe>
+      <!-- End Facebook widget -->
+      
       <!-- Begin MailChimp Signup Form -->
       <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
       <style type="text/css">
-        .homepage-newsletter#mc_embed_signup{background: #DFDFDF; clear:left; font-size:16px; border-radius: 5px; margin-top: 4em;}
+        .homepage-newsletter#mc_embed_signup{background: #DFDFDF; clear:left; font-size:16px; border-radius: 5px; margin-top: 2em;}
         .homepage-newsletter#mc_embed_signup .button {background-color: #DB6453; font-size: 18px;}
         .homepage-newsletter#mc_embed_signup input { border: transparent; -webkit-appearance: none; border-radius: 5px;}
         .homepage-newsletter#mc_embed_signup .clear {text-align: center;}
+        .homepage-newsletter#mc_embed_signup h2 { margin: 0 0 1em 0; font-size: 1em; }
         /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
            We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
       </style>
       <div class="homepage-newsletter" id="mc_embed_signup">
       <form action="//teatrobresci.us8.list-manage.com/subscribe/post?u=cb37c01b5622dac69f092e069&amp;id=bc778e8184" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
         <h2>Iscriviti alla newsletter per non perdere spettacoli e corsi di Teatro Bresci.</h2>
-      <div class="indicates-required"><span class="asterisk">*</span> campi obbligatori</div>
       <div class="mc-field-group">
-        <label for="mce-EMAIL">Email  <span class="asterisk">*</span>
+        <label for="mce-EMAIL">Email
       </label>
         <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-      </div>
-      <div class="mc-field-group">
-        <label for="mce-FNAME">Nome </label>
-        <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-      </div>
-      <div class="mc-field-group">
-        <label for="mce-LNAME">Cognome </label>
-        <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
       </div>
         <div id="mce-responses" class="clear">
           <div class="response" id="mce-error-response" style="display:none"></div>

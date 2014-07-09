@@ -91,7 +91,7 @@
             <p id="footer-logo"><img src="<?php bloginfo( 'template_url' ); ?>/img/logo.svg"></p>
           </div>
           <div class="col-sm-4">
-            <a href="http://www.babbiesproduction.com"><p id="footer-credits">Site by Babbies Production</p></a>
+            <a href="http://www.babbiesproduction.com"><p id="footer-credits">Website design e implementazione:<br> Babbies Production</p></a>
           </div>
         </div>
       </div>
