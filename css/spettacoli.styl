@@ -7,21 +7,50 @@
   overflow hidden
   width 24%
   margin-right 1%
-  transform:skewX(-20deg)
+  transform:skewX(-15deg)
   float left
+  position relative
+  &:hover
+    .spettacoli-hover
+      height 100%
+      transition .3s
+    img
+      transform scale(1.2) skewX(15deg)
+      transition .5s
+      transition-timing-function: ease
   img
     height 100%
     margin-left -35%
-    transform:skewX(20deg)
+    transform:skewX(15deg)
+    transition .5s
+
+.spettacoli-hover
+  height 0
+  transition .3s
+  opacity .8
+  position absolute
+  background red
+  right 0
+  width 100%
+  z-index 254
+  overflow hidden
+  p
+    color white
+    position absolute
+    top 50%
+    left 50%
+    transform skewX(15deg)
 
 .spettacoli-title
   position absolute
   top 0
-  transform:skewX(20deg)
+  transform:skewX(15deg)
   font-family Georgia, serif
   color white
-  right 0
-  z-index 200
+  width 90%
+  padding 0 1em
+  text-align left
+  z-index 256
   margin-top .4em
   margin-right 1em
   text-shadow 0 1px 1px #353535
@@ -30,3 +59,11 @@
   .spettacoli-mask
     width 49%
     margin-bottom 1em
+
+@media screen and (max-width: 1440px) and (min-width: 930px)
+  .spettacoli-title
+    font-size 24px
+
+@media screen and (max-width: 930px)
+  .spettacoli-title
+    font-size 16px

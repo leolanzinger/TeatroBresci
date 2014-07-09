@@ -106,6 +106,10 @@
       });
     </script>
     <script type="text/javascript" src="<?php bloginfo( 'template_url' ); ?>/js/smooth-scroll.js"></script>
+    <script type="text/javascript" src="<?php bloginfo( 'template_url' ); ?>/js/jquery.stellar.js" ></script>
+    <script type="text/javascript">
+      $(window).stellar();
+    </script>
 
     <?php wp_footer(); ?>
   </body>

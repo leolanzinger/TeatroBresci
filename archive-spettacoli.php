@@ -11,15 +11,30 @@ get_header(); ?>
   <div id="spettacoli-container">
     <div class="spettacoli-mask">
       <h2 class="spettacoli-title">Prosa</h2>
+      <div class="spettacoli-hover">
+        <p>Scopri</p>
+      </div>
       <img src="<?php bloginfo( 'template_url' ); ?>/img/home.jpg">
     </div>
     <div class="spettacoli-mask">
+      <h2 class="spettacoli-title">Teatro Ragazzi</h2>
+      <div class="spettacoli-hover">
+        <p>Scopri</p>
+      </div>
       <img src="<?php bloginfo( 'template_url' ); ?>/img/home.jpg">
     </div>
     <div class="spettacoli-mask">
+      <h2 class="spettacoli-title">Commemorativi</h2>
+      <div class="spettacoli-hover">
+        <p>Scopri</p>
+      </div>
       <img src="<?php bloginfo( 'template_url' ); ?>/img/home.jpg">
     </div>
     <div class="spettacoli-mask">
+      <h2 class="spettacoli-title">Lezioni spettacolo</h2>
+      <div class="spettacoli-hover">
+        <p>Scopri</p>
+      </div>
       <img src="<?php bloginfo( 'template_url' ); ?>/img/home.jpg">
     </div>
   </div>
