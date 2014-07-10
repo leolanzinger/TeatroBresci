@@ -10,7 +10,7 @@
  */
 var cbpHorizontalMenu = (function() {
 
-	var $listItems = $( '#cbp-hrmenu > ul > li' ),
+	var $listItems = $( '#cbp-hrmenu > ul > .dropdown' ),
 		$menuItems = $listItems.children( 'a' ),
 		$body = $( 'body' ),
 		current = -1;
@@ -26,10 +26,13 @@ var cbpHorizontalMenu = (function() {
 			$listItems.eq( current ).removeClass( 'cbp-hropen' );
 		}
 
-		var $item = $( event.currentTarget ).parent( 'li' ),
+		var $item = $( event.currentTarget ).parent( '.dropdown' ),
 			idx = $item.index();
 
-		if( current === idx ) {
+
+		$('.dropdown').removeClass('cbp-hropen')
+
+		if( current === idx ) {;
 			$item.removeClass( 'cbp-hropen' );
 			current = -1;
 		}
