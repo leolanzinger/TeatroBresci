@@ -27,7 +27,7 @@ Text Domain: teatrobresci teatro bresci
   background: #000;
   z-index: 250;
   position: fixed;
-  top: 30px;
+  top: 0;
   width: 100%;
   padding-top: 1em;
   padding-bottom: 0.5em;
