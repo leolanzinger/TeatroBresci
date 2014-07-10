@@ -2,6 +2,10 @@
   margin-left -4%
   overflow hidden
 
+#spettacoli-title
+  margin .3em 0 .2em 0
+  text-align right
+
 .spettacoli-mask
   height 500px
   overflow hidden
@@ -16,20 +20,21 @@
       transition .3s
     img
       transform scale(1.2) skewX(15deg)
-      transition .5s
+      transition .7s
       transition-timing-function: ease
+    .spettacoli-title
+      text-shadow none
   img
     height 100%
     margin-left -35%
     transform:skewX(15deg)
-    transition .5s
+    transition .7s
 
 .spettacoli-hover
   height 0
   transition .3s
-  opacity .8
   position absolute
-  background red
+  background rgba(red, .8)
   right 0
   width 100%
   z-index 254
@@ -37,9 +42,11 @@
   p
     color white
     position absolute
-    top 50%
-    left 50%
-    transform skewX(15deg)
+    top 43%
+    left 42%
+    // transform skewX(15deg)
+    border 2px solid white
+    padding 2em
 
 .spettacoli-title
   position absolute
@@ -59,6 +66,11 @@
   .spettacoli-mask
     width 49%
     margin-bottom 1em
+  .spettacoli-mask
+    height 300px
+    img
+      width 160%
+      height auto
 
 @media screen and (max-width: 1440px) and (min-width: 930px)
   .spettacoli-title
