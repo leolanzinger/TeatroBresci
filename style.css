@@ -530,6 +530,10 @@ h2 {
   margin-left: -4%;
   overflow: hidden;
 }
+#spettacoli-title {
+  margin: 0.3em 0 0.2em 0;
+  text-align: right;
+}
 .spettacoli-mask {
   height: 500px;
   overflow: hidden;
@@ -557,16 +561,19 @@ h2 {
   -o-transform: scale(1.2) skewX(15deg);
   -ms-transform: scale(1.2) skewX(15deg);
   transform: scale(1.2) skewX(15deg);
-  -webkit-transition: 0.5s;
-  -moz-transition: 0.5s;
-  -o-transition: 0.5s;
-  -ms-transition: 0.5s;
-  transition: 0.5s;
+  -webkit-transition: 0.7s;
+  -moz-transition: 0.7s;
+  -o-transition: 0.7s;
+  -ms-transition: 0.7s;
+  transition: 0.7s;
   -webkit-transition-timing-function: ease;
   -moz-transition-timing-function: ease;
   -o-transition-timing-function: ease;
   -ms-transition-timing-function: ease;
   transition-timing-function: ease;
+}
+.spettacoli-mask:hover .spettacoli-title {
+  text-shadow: none;
 }
 .spettacoli-mask img {
   height: 100%;
@@ -576,11 +583,11 @@ h2 {
   -o-transform: skewX(15deg);
   -ms-transform: skewX(15deg);
   transform: skewX(15deg);
-  -webkit-transition: 0.5s;
-  -moz-transition: 0.5s;
-  -o-transition: 0.5s;
-  -ms-transition: 0.5s;
-  transition: 0.5s;
+  -webkit-transition: 0.7s;
+  -moz-transition: 0.7s;
+  -o-transition: 0.7s;
+  -ms-transition: 0.7s;
+  transition: 0.7s;
 }
 .spettacoli-hover {
   height: 0;
@@ -589,11 +596,8 @@ h2 {
   -o-transition: 0.3s;
   -ms-transition: 0.3s;
   transition: 0.3s;
-  opacity: 0.8;
-  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
-  filter: alpha(opacity=80);
   position: absolute;
-  background: #d46156;
+  background: rgba(212,97,86,0.8);
   right: 0;
   width: 100%;
   z-index: 254;
@@ -602,13 +606,10 @@ h2 {
 .spettacoli-hover p {
   color: #fff;
   position: absolute;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: skewX(15deg);
-  -moz-transform: skewX(15deg);
-  -o-transform: skewX(15deg);
-  -ms-transform: skewX(15deg);
-  transform: skewX(15deg);
+  top: 43%;
+  left: 42%;
+  border: 2px solid #fff;
+  padding: 2em;
 }
 .spettacoli-title {
   position: absolute;
@@ -632,6 +633,13 @@ h2 {
   .spettacoli-mask {
     width: 49%;
     margin-bottom: 1em;
+  }
+  .spettacoli-mask {
+    height: 300px;
+  }
+  .spettacoli-mask img {
+    width: 160%;
+    height: auto;
   }
 }
 @media screen and (max-width: 1440px) and (min-width: 930px) {
