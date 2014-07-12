@@ -1,6 +1,6 @@
 <?php 
 /*
- *	Corsi base archive template
+ *	Spettacoli base archive template
  */
 get_header(); ?>
 
