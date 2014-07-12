@@ -1,0 +1,63 @@
+.corso-list-mask
+  height 250px
+  overflow hidden
+  width 100%
+  position relative
+
+  img
+    height 100%
+    width auto
+    transition .3s
+  &:hover
+    .corso-list-overlay
+      height 100%
+      transition .3s
+    .corso-list-link
+      transform translate(-50%, 0)
+      transition .6s
+    img
+      transform scale(1.2)
+      transition .3s
+      blur-param = 2px
+      filter blur(blur-param)
+      -webkit-filter blur(blur-param)
+
+.corso-list-link
+  position absolute
+  top (250px / 2) - (120px / 2)
+  left 50%
+  width 100%
+  color red
+  background white
+  text-align center
+  font-family "Raleway", sans-serif
+  font-weight 200
+  border-radius 50%
+  height 120px
+  width 120px
+  transform translate(-50%, -300px)
+  transition .5s
+  z-index 256
+  p
+    margin ((120px - (18px * 2px)) / 2) 0
+    line-height 18px
+    transition .3s
+
+.corso-list-overlay
+  background red
+  opacity .7
+  position absolute
+  top 0
+  width 100%
+  height 0
+  transition .3s
+  z-index 254
+
+.corso-list-title
+  color white
+  background red
+  padding 1em 8px
+  font-size 18px
+  font-family Georgia, serif
+  font-weight 300
+  margin 0 0 1em 0
