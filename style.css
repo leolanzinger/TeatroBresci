@@ -923,6 +923,14 @@ footer {
   width: 100%;
   height: auto;
 }
+#gallery-instagram {
+  background: #ababab;
+  padding: 1em 0;
+}
+#gallery-instagram-title {
+  margin-top: 0;
+  margin-bottom: 0.3em;
+}
 #contatti h2 {
   font-family: Georgia, serif;
   font-weight: 200;
