@@ -20,7 +20,7 @@
                 margin-top: 0; 
                 margin-bottom: 2em; 
                 padding: 2px 0px 0px 10px; 
-                border: 1px solid grey;
+                border: 1px solid white;
                 margin-left: -10px;
               }
               .bottom-newsletter#mc_embed_signup form {padding: 0;}
