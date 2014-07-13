@@ -3,7 +3,6 @@
 #navbar-logo
   // width 100px
   border-top 0
-  width 150px
   a 
     padding 0
     img
@@ -17,9 +16,9 @@
   z-index: 250;
   position: fixed;
   top 0
-  width 100%
   padding-top 1em
   padding-bottom .5em
+  width 100%
 
 .cbp-hrmenu {
   width: 100%;
@@ -30,22 +29,24 @@
   margin: 0;
   padding: 0;
   list-style-type: none;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 /* first level ul style */
-.cbp-hrmenu > ul,
-.cbp-hrmenu .cbp-hrsub-inner {
-  width: 90%;
-  max-width: 70em;
-  margin: 0 auto;
-  padding: 0 1.875em;
-}
+// .cbp-hrmenu > ul,
+// .cbp-hrmenu .cbp-hrsub-inner {
+//   width: 90%;
+//   max-width: 70em;
+//   margin: 0 auto;
+// }
 
 .cbp-hrmenu > ul > li {
   display: inline-block;
   border-top: 2px white solid;
-  margin: 0 5px;
+  margin: 0 .2%;
   transition .3s
+  width calc(94% / 7)
 }
 
 .cbp-hrmenu > ul > li > a {
@@ -315,3 +316,40 @@ a:hover {
   content: "\f060";
 }
 
+#mobile-menu
+  display none
+  border none
+  color white
+  text-align right
+  font-size 30px
+
+@media (min-width: 768px) {
+  .cbp-hrmenu ul {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .cbp-hrmenu ul {
+    width: 970px;
+  }
+}
+@media (max-width: 992px) {
+  .cbp-hrmenu > ul > .desktop-menu {
+    display: none;
+  }
+  #mobile-menu, #navbar-logo {
+    display: block;
+    float: left;
+  }
+  #mobile-menu {
+    float: right;
+  }
+  .menu-container {
+    padding-top: 23px !important;
+  }
+}
+@media (min-width: 1200px) {
+  .cbp-hrmenu ul {
+    width: 1170px;
+  }
+}

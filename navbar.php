@@ -7,10 +7,10 @@
                 <img src="<?php bloginfo( 'template_url' ); ?>/img/logo.svg">
               </a>
             </li>
-            <li>
+            <li class="desktop-menu">
               <a href="#">Chi siamo</a>
             </li>
-            <li>
+            <li class="desktop-menu">
               <a href="#">Calendario</a>
               <div class="cbp-hrsub">
                 <div class="cbp-hrsub-inner">
@@ -52,7 +52,7 @@
                 </div><!-- /cbp-hrsub-inner -->
               </div><!-- /cbp-hrsub -->
             </li>
-            <li>
+            <li class="desktop-menu">
               <a href="#">Spettacoli</a>
               <div class="cbp-hrsub">
                 <div class="cbp-hrsub-inner"> 
@@ -87,8 +87,8 @@
                 </div><!-- /cbp-hrsub-inner -->
               </div><!-- /cbp-hrsub -->
             </li>
-            <li>
-              <a href="#">Corsi e Laboratori</a>
+            <li class="desktop-menu">
+              <a href="#">Corsi<span class="amp">&amp;</span>Laboratori</a>
               <div class="cbp-hrsub">
                 <div class="cbp-hrsub-inner"> 
                   <div>
@@ -121,11 +121,14 @@
                 </div><!-- /cbp-hrsub-inner -->
               </div><!-- /cbp-hrsub -->
             </li>
-            <li>
+            <li class="desktop-menu">
               <a href="#">Gallery</a>
             </li>
-            <li>
+            <li class="desktop-menu">
               <a href="#">Contatti</a>
+            </li>
+            <li id="mobile-menu">
+              Menu
             </li>
           </ul>
         </nav>
