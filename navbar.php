@@ -7,14 +7,13 @@
                 <img src="<?php bloginfo( 'template_url' ); ?>/img/logo.svg">
               </a>
             </li>
-<<<<<<< HEAD
             <li class="desktop-menu">
               <a href="<?php echo home_url(); ?>/chi-siamo">Chi siamo</a>
             </li>
             <li class="desktop-menu">
               <a href="<?php echo home_url(); ?>/calendario">Calendario</a>
             </li>
-            <li class="desktop-menu">
+            <li class="desktop-menu dropdown">
               <a href="#">Spettacoli</a>
               <div class="cbp-hrsub">
                 <div class="cbp-hrsub-inner"> 
@@ -30,7 +29,7 @@
                 </div><!-- /cbp-hrsub-inner -->
               </div><!-- /cbp-hrsub -->
             </li>
-            <li class="desktop-menu">
+            <li class="desktop-menu dropdown">
               <a href="#">Corsi<span class="amp">&amp;</span>Laboratori</a>
               <div class="cbp-hrsub">
                 <div class="cbp-hrsub-inner"> 
