@@ -20,10 +20,18 @@
                   <div>
                     <h4><a href="<?php echo home_url(); ?>/spettacoli">Spettacoli</a></h4>
                     <ul>
-                      <li><a href="<?php echo home_url(); ?>/category/prosa">Prosa</a></li>
-                      <li><a href="<?php echo home_url(); ?>/category/teatro-ragazzi">Teatro Ragazzi</a></li>
-                      <li><a href="<?php echo home_url(); ?>/category/commemorativi">Commemorativi</a></li>
-                      <li><a href="<?php echo home_url(); ?>/category/lezioni-spettacolo">Lezioni Spettacolo</a></li>
+                    <!-- retrieve spettacoli categories -->
+                    <?php
+                    $idObj = get_category_by_slug('spettacoli'); 
+                    $cat_id = $idObj->term_id;
+                    $categories =  get_categories('child_of='.$cat_id.'&hide_empty=0');
+                    foreach ($categories as $category) :
+                    ?>
+                      <li><a href="<?php echo home_url(); ?>/category/<?php echo $category->slug; ?>"><?php echo $category->name; ?></a></li>
+                      
+                    <?php
+                    endforeach;
+                    ?>
                     </ul>
                   </div>
                 </div><!-- /cbp-hrsub-inner -->
@@ -36,8 +44,18 @@
                   <div>
                     <h4><a href="<?php echo home_url(); ?>/corsi">Corsi e Laboratori</a></h4>
                     <ul>
-                      <li><a href="<?php echo home_url(); ?>/category/per-tutti">Per tutti</a></li>
-                      <li><a href="<?php echo home_url(); ?>/category/scuole">Scuole</a></li>
+                      <!-- retrieve corsi categories -->
+                      <?php
+                      $idObj = get_category_by_slug('corsi'); 
+                      $cat_id = $idObj->term_id;
+                      $categories =  get_categories('child_of='.$cat_id.'&hide_empty=0');
+                      foreach ($categories as $category) :
+                      ?>
+                        <li><a href="<?php echo home_url(); ?>/category/<?php echo $category->slug; ?>"><?php echo $category->name; ?></a></li>
+                        
+                      <?php
+                      endforeach;
+                      ?>
                     </ul>
                   </div>
                 </div><!-- /cbp-hrsub-inner -->
