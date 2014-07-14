@@ -6,8 +6,7 @@ get_header(); ?>
 
 <div class="container">
   <div class="row">
-    <h1>Corsi e laboratori</h1>
-
+    <h1 id="corsi-title">Corsi <span class="amp">&amp;</span> laboratori</h1>
     <p>
       Me non paenitet nullum festiviorem excogitasse ad hoc. Contra legem facit qui id facit quod lex prohibet. Quis aute iure reprehenderit in voluptate velit esse. Magna pars studiorum, prodita quaerimus. Sed haec quis possit intrepidus aestimare tellus.
       Idque Caesaris facere voluntate liceret: sese habere. Pellentesque habitant morbi tristique senectus et netus. Unam incolunt Belgae, aliam Aquitani, tertiam. Quo usque tandem abutere, Catilina, patientia nostra?

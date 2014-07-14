@@ -11,7 +11,7 @@ get_header(); ?>
         	$cat_name = get_category(get_query_var('cat'))->name;
         ?>
 
-        <h1><?php echo $cat_name; ?></h1>
+        <h1 id="corsi-list-title"><?php echo $cat_name; ?></h1>
       </div>
   </div>
 

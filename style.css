@@ -13,7 +13,6 @@ Text Domain: teatrobresci teatro bresci
 @import "css/bootstrap/bootstrap.css";
 #navbar-logo {
   border-top: 0;
-  width: 150px;
 }
 #navbar-logo a {
   padding: 0;
@@ -28,9 +27,9 @@ Text Domain: teatrobresci teatro bresci
   z-index: 250;
   position: fixed;
   top: 0;
-  width: 100%;
   padding-top: 1em;
   padding-bottom: 0.5em;
+  width: 100%;
 }
 .cbp-hrmenu {
   width: 100%;
@@ -39,23 +38,19 @@ Text Domain: teatrobresci teatro bresci
   margin: 0;
   padding: 0;
   list-style-type: none;
-}
-.cbp-hrmenu > ul,
-.cbp-hrmenu .cbp-hrsub-inner {
-  width: 90%;
-  max-width: 70em;
-  margin: 0 auto;
-  padding: 0 1.875em;
+  margin-right: auto;
+  margin-left: auto;
 }
 .cbp-hrmenu > ul > li {
   display: inline-block;
   border-top: 2px #fff solid;
-  margin: 0 5px;
+  margin: 0 0.2%;
   -webkit-transition: 0.3s;
   -moz-transition: 0.3s;
   -o-transition: 0.3s;
   -ms-transition: 0.3s;
   transition: 0.3s;
+  width: calc(94% / 7);
 }
 .cbp-hrmenu > ul > li > a {
   font-weight: 300;
@@ -292,6 +287,44 @@ a:hover {
 }
 .icon-arrow-left:before {
   content: "\f060";
+}
+#mobile-menu {
+  display: none;
+  border: none;
+  color: #fff;
+  text-align: right;
+  font-size: 30px;
+}
+@media (min-width: 768px) {
+  .cbp-hrmenu ul {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .cbp-hrmenu ul {
+    width: 970px;
+  }
+}
+@media (max-width: 992px) {
+  .cbp-hrmenu > ul > .desktop-menu {
+    display: none;
+  }
+  #mobile-menu,
+  #navbar-logo {
+    display: block;
+    float: left;
+  }
+  #mobile-menu {
+    float: right;
+  }
+  .menu-container {
+    padding-top: 23px !important;
+  }
+}
+@media (min-width: 1200px) {
+  .cbp-hrmenu ul {
+    width: 1170px;
+  }
 }
 h2 {
   font-family: 'Raleway', sans-serif;
@@ -775,6 +808,9 @@ h2 {
   position: absolute;
   bottom: 0.3em;
 }
+#corsi-title {
+  margin-top: 0.8em;
+}
 .corso-tile {
   background: #f2f2f2;
   height: 220px;
@@ -795,10 +831,14 @@ h2 {
   float: left;
   padding-right: 10px;
 }
+.corso-caption p {
+  margin-top: 0.2em;
+}
 .corso-title {
   margin: 0;
   color: #d46156;
   font-family: Georgia, serif;
+  margin-bottom: 0;
 }
 .tile-informazioni {
   padding: 0.4em;
@@ -809,6 +849,10 @@ h2 {
   text-align: center;
   font-size: 16px;
   line-height: 1em;
+}
+#corsi-list-title {
+  margin-top: 0.6em;
+  margin-bottom: 0.3em;
 }
 .corso-list-mask {
   height: 250px;
@@ -992,6 +1036,14 @@ footer {
   width: 100%;
   height: auto;
 }
+#gallery-instagram {
+  background: #ababab;
+  padding: 1em 0;
+}
+#gallery-instagram-title {
+  margin-top: 0;
+  margin-bottom: 0.3em;
+}
 #contatti h2 {
   font-family: Georgia, serif;
   font-weight: 200;
@@ -1048,4 +1100,9 @@ button {
 }
 .text-right {
   text-align: right;
+}
+span.amp {
+  font-family: Baskerville, Palatino, "Book Antiqua", serif;
+  font-style: italic;
+  font-weight: 300;
 }

@@ -7,13 +7,14 @@
                 <img src="<?php bloginfo( 'template_url' ); ?>/img/logo.svg">
               </a>
             </li>
-            <li>
+<<<<<<< HEAD
+            <li class="desktop-menu">
               <a href="<?php echo home_url(); ?>/chi-siamo">Chi siamo</a>
             </li>
-            <li>
+            <li class="desktop-menu">
               <a href="<?php echo home_url(); ?>/calendario">Calendario</a>
             </li>
-            <li class="dropdown">
+            <li class="desktop-menu">
               <a href="#">Spettacoli</a>
               <div class="cbp-hrsub">
                 <div class="cbp-hrsub-inner"> 
@@ -29,8 +30,8 @@
                 </div><!-- /cbp-hrsub-inner -->
               </div><!-- /cbp-hrsub -->
             </li>
-            <li class="dropdown">
-              <a href="#">Corsi e Laboratori</a>
+            <li class="desktop-menu">
+              <a href="#">Corsi<span class="amp">&amp;</span>Laboratori</a>
               <div class="cbp-hrsub">
                 <div class="cbp-hrsub-inner"> 
                   <div>
@@ -43,11 +44,14 @@
                 </div><!-- /cbp-hrsub-inner -->
               </div><!-- /cbp-hrsub -->
             </li>
-            <li>
+            <li class="desktop-menu">
               <a href="<?php echo home_url(); ?>/gallery">Gallery</a>
             </li>
-            <li>
+            <li class="desktop-menu">
               <a href="<?php echo home_url(); ?>/contatti">Contatti</a>
+            </li>
+            <li id="mobile-menu">
+              Menu
             </li>
           </ul>
         </nav>
