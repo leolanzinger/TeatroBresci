@@ -17,7 +17,7 @@
               <a href="#">Spettacoli</a>
               <div class="cbp-hrsub">
                 <div class="cbp-hrsub-inner"> 
-                  <div>
+                  <div class="container">
                     <h4><a href="<?php echo home_url(); ?>/spettacoli">Spettacoli</a></h4>
                     <ul>
                     <!-- retrieve spettacoli categories -->
