@@ -86,6 +86,9 @@ Text Domain: teatrobresci teatro bresci
   font-family: "Raleway", sans-serif;
   font-weight: 600;
 }
+.cbp-hrmenu > ul > li.cbp-hropen a:hover {
+  color: #f0f0f0;
+}
 .cbp-hrmenu .cbp-hrsub {
   display: none;
   position: absolute;
@@ -998,6 +1001,8 @@ footer {
   margin-bottom: 0.3em;
 }
 #em-wrapper h2 {
+  margin-top: 0.8em;
+  margin-bottom: 0.3em;
   font-weight: 200;
   text-transform: capitalize;
 }
@@ -1011,8 +1016,12 @@ footer {
   margin-top: 0.5em;
   padding: 0;
 }
-#em-wrapper .row .col-sm-11 {
+#em-wrapper .row .col-sm-10 {
   margin-top: 24px;
+}
+.css-events-list img {
+  width: 50px;
+  margin-top: 20px;
 }
 .calendar-date {
   background: #d46156;
