@@ -35,7 +35,7 @@
           <p class="events-name"><strong>Sunil Superstar</strong></p>
           <p class="events-place"><em>Rolling Stone di Milano - 18.00</em></p>
         </li>
-        <p><button>Eventi successivi</button></p>
+        <p><a href="<?php echo home_url(); ?>/calendario"><button>Eventi successivi</button></a></p>
       </ul>
     </div>
 
