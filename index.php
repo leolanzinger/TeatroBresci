@@ -19,6 +19,11 @@
   <div class="row">
     <div class="col-sm-7">
       <h2>Prossimi eventi</h2>
+      <?php
+      if (class_exists('EM_Events')) {
+        echo EM_Events::output( array('limit'=>10,'orderby'=>'name') );
+      }
+      ?>
       <ul>
         <li id="home-events">
           <div class="events-date-wrapper"><p class="events-date"><span>6</span><br>giu</p></div>
