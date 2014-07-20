@@ -100,6 +100,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script type="text/javascript" src="<?php bloginfo( 'template_url' ); ?>/js/menu.js"></script>
     <script type="text/javascript" src="<?php bloginfo( 'template_url' ); ?>/js/modernizr.js"></script>
+    <script type="text/javascript" src="<?php bloginfo( 'template_url' ); ?>/js/justifiedGallery.js"></script>
     <script>
       $(function() {
         cbpHorizontalMenu.init();
