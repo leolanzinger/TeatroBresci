@@ -19,29 +19,13 @@
   <div class="row">
     <div class="col-sm-7">
       <h2>Prossimi eventi</h2>
-      <?php
-      if (class_exists('EM_Events')) {
-        echo EM_Events::output( array('limit'=>10,'orderby'=>'name') );
-      }
-      ?>
-      <ul>
-        <li id="home-events">
-          <div class="events-date-wrapper"><p class="events-date"><span>6</span><br>giu</p></div>
-          <p class="events-name"><strong>Arbeit</strong></p>
-          <p class="events-place"><em>Rolling Stone di Milano - 18.00</em></p>
-        </li>
-        <li id="home-events">
-          <div class="events-date-wrapper"><p class="events-date"><span>7</span><br>giu</p></div>
-          <p class="events-name"><strong>Buco</strong></p>
-          <p class="events-place"><em>Rolling Stone di Milano - 18.00</em></p>
-        </li>
-        <li id="home-events">
-          <div class="events-date-wrapper"><p class="events-date"><span>9</span><br>giu</p></div>
-          <p class="events-name"><strong>Sunil Superstar</strong></p>
-          <p class="events-place"><em>Rolling Stone di Milano - 18.00</em></p>
-        </li>
+        <?php
+        if (class_exists('EM_Events')) {
+          echo EM_Events::output( array('limit'=>10,'orderby'=>'name') );
+        }
+        ?>
+        
         <p><a href="<?php echo home_url(); ?>/calendario"><button>Eventi successivi</button></a></p>
-      </ul>
     </div>
 
     
