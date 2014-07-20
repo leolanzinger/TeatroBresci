@@ -753,16 +753,24 @@ h2 {
   width: 100%;
   height: auto;
 }
-@media screen and (max-width: 1400px) {
-  #spettacolo-parallax {
-    height: 300px;
-  }
-}
 #spettacolo-title {
   color: #fff;
   text-shadow: 0 1px 2px #000;
   position: absolute;
   bottom: 0.3em;
+}
+@media screen and (max-width: 1400px) and (min-width: 800px) {
+  #spettacolo-parallax {
+    height: 450px;
+  }
+}
+@media screen and (max-width: 800px) {
+  #spettacolo-parallax {
+    height: 300px;
+  }
+  #spettacolo-title {
+    font-size: 4em;
+  }
 }
 #corsi-title {
   margin-top: 0.8em;
