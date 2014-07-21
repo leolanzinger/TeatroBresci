@@ -1,6 +1,11 @@
 <?php get_header(); ?>
+
+<div id="notfound-parallax" style="background: url(' <?php bloginfo( 'template_url' ); ?>/img/404-cropped.jpg') " >  
 	<div class="container">
-    <h1>Ops, questa pagina non esiste!</h1>
-    <p><a href="<?php echo home_url(); ?>">Torna alla home</a></p>
-  </div>
+		<div id="notfound-title">
+			<h1 >Ops, questa pagina non esiste!</h1>
+			<p><a href="<?php echo home_url(); ?>"><button>Torna alla home</button></a></p>
+		</div>
+	</div>
+</div>
 <?php get_footer(); ?>

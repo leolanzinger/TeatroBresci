@@ -4,10 +4,17 @@
  */
 get_header(); ?>
 
-<div id="spettacolo-parallax" style="background: url("  ") " >
-  <?php if ( has_post_thumbnail() ) {
-    the_post_thumbnail();
-  } ?>
+
+<?php 
+  /*
+   *  Retrieve background image url for header
+   */
+  $thumb = wp_get_attachment_image_src( get_post_thumbnail_id($post->ID), 'full' );
+  $url = $thumb['0']; 
+?>
+
+<div id="spettacolo-parallax" style="background: url(' <?=$url?> ') " >
+  
   <div class="container">
     <h1 id="spettacolo-title">
       <?php

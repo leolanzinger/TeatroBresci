@@ -756,6 +756,9 @@ h2 {
   height: 500px;
   position: relative;
   overflow: hidden;
+  -webkit-background-size: cover !important;
+  -moz-background-size: cover !important;
+  background-size: cover !important;
 }
 #spettacolo-parallax img {
   width: 100%;
@@ -954,16 +957,17 @@ h2 {
   color: #000;
 }
 footer {
-  background: #303030;
+  background: #565656;
+  border-top: 1px solid #4a4a4a;
   width: 100%;
   margin-top: 3em;
   color: #fff;
 }
 #footer-contatti {
-  text-align: left;
+  text-align: right;
 }
 #footer-contatti img {
-  margin-right: 1em;
+  margin-left: 1em;
   margin-bottom: 0.5em;
   height: 2em;
 }
@@ -1117,4 +1121,21 @@ span.amp {
   font-family: Baskerville, Palatino, "Book Antiqua", serif;
   font-style: italic;
   font-weight: 300;
+}
+#notfound-title {
+  color: #fff;
+  text-shadow: 0 1px 2px #000;
+  position: absolute;
+  bottom: 80px;
+}
+#notfound-title h1 {
+  font-size: 60px;
+}
+#notfound-parallax {
+  height: 500px;
+  position: relative;
+  overflow: hidden;
+  -webkit-background-size: cover !important;
+  -moz-background-size: cover !important;
+  background-size: cover !important;
 }
