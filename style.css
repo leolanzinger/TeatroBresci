@@ -1017,16 +1017,17 @@ h2 {
   color: #000;
 }
 footer {
-  background: #303030;
+  background: #565656;
+  border-top: 1px solid #4a4a4a;
   width: 100%;
   margin-top: 3em;
   color: #fff;
 }
 #footer-contatti {
-  text-align: left;
+  text-align: right;
 }
 #footer-contatti img {
-  margin-right: 1em;
+  margin-left: 1em;
   margin-bottom: 0.5em;
   height: 2em;
 }
