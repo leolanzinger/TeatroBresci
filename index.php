@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 
 <div id="parallax-wrapper">
-  <div data-stellar-background-ratio="0.8" id="home-parallax">
+  <div data-stellar-background-ratio="0.6" id="home-parallax">
     <a href="#home-intro">
       <p id="scroll-me" >
         Scopri<br>

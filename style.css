@@ -11,6 +11,10 @@ Tags: teatro bresci, teatro, citadella, babbies production
 Text Domain: teatrobresci teatro bresci
 */
 @import "css/bootstrap/bootstrap.css";
+#hamburger {
+  height: 0.9em;
+  display: inline-block;
+}
 #navbar-logo {
   border-top: 0;
 }
@@ -164,7 +168,6 @@ Text Domain: teatrobresci teatro bresci
   }
   .cbp-hrmenu > ul > li {
     display: block;
-    border-bottom: 4px solid #47a3da;
   }
   .cbp-hrmenu > ul > li > a {
     display: block;
@@ -263,12 +266,10 @@ a:hover {
   border-radius: 50%;
   color: transparent;
   margin: 0 0.1em;
-  border: 4px solid #47a3da;
   text-indent: -8000px;
 }
 .menu-container > header nav a:after {
   content: attr(data-info);
-  color: #47a3da;
   position: absolute;
   width: 600%;
   top: 120%;
@@ -319,6 +320,11 @@ a:hover {
   color: #fff;
   text-align: right;
   font-size: 30px;
+  font-family: "Raleway", sans-serif;
+  font-weight: 800;
+  margin-right: 20px;
+  width: 200px;
+  display: none;
 }
 @media (min-width: 768px) {
   .cbp-hrmenu ul {
@@ -334,9 +340,12 @@ a:hover {
   .cbp-hrmenu > ul > .desktop-menu {
     display: none;
   }
-  #mobile-menu,
   #navbar-logo {
     display: block;
+    float: left;
+  }
+  #mobile-menu {
+    display: inline-block;
     float: left;
   }
   #mobile-menu {
@@ -637,11 +646,11 @@ h2 {
   transition: 0.3s;
 }
 .spettacoli-mask:hover img {
-  -webkit-transform: scale(1.2) skewX(15deg);
-  -moz-transform: scale(1.2) skewX(15deg);
-  -o-transform: scale(1.2) skewX(15deg);
-  -ms-transform: scale(1.2) skewX(15deg);
-  transform: scale(1.2) skewX(15deg);
+  -webkit-transform: scale(1.2) skewX(15deg) translateX(-25%);
+  -moz-transform: scale(1.2) skewX(15deg) translateX(-25%);
+  -o-transform: scale(1.2) skewX(15deg) translateX(-25%);
+  -ms-transform: scale(1.2) skewX(15deg) translateX(-25%);
+  transform: scale(1.2) skewX(15deg) translateX(-25%);
   -webkit-transition: 0.7s;
   -moz-transition: 0.7s;
   -o-transition: 0.7s;
@@ -658,12 +667,11 @@ h2 {
 }
 .spettacoli-mask img {
   height: 100%;
-  margin-left: -35%;
-  -webkit-transform: skewX(15deg);
-  -moz-transform: skewX(15deg);
-  -o-transform: skewX(15deg);
-  -ms-transform: skewX(15deg);
-  transform: skewX(15deg);
+  -webkit-transform: skewX(15deg) translateX(-25%);
+  -moz-transform: skewX(15deg) translateX(-25%);
+  -o-transform: skewX(15deg) translateX(-25%);
+  -ms-transform: skewX(15deg) translateX(-25%);
+  transform: skewX(15deg) translateX(-25%);
   -webkit-transition: 0.7s;
   -moz-transition: 0.7s;
   -o-transition: 0.7s;
@@ -1067,6 +1075,9 @@ footer {
 }
 body {
   margin-top: 48px;
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
 }
 h2 {
   font-size: 2.3em;

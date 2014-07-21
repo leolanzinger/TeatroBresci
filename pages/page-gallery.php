@@ -23,7 +23,6 @@ get_header(); ?>
         }
       }
     ?>
-    ciao
   </div>
 
 <?php get_footer(); ?>

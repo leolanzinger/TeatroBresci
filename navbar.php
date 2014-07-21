@@ -67,9 +67,12 @@
             <li class="desktop-menu">
               <a href="<?php echo home_url(); ?>/contatti">Contatti</a>
             </li>
-            <li id="mobile-menu">
-              Menu
-            </li>
+            <a href="">
+              <li id="mobile-menu">
+                <img id="hamburger" src="<?php bloginfo( 'template_url' ); ?>/img/hamburger.svg">
+                Menu
+              </li>
+            </a>
           </ul>
         </nav>
       </div>
