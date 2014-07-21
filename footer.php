@@ -1,3 +1,16 @@
+  <div class="overlay overlay-hugeinc">
+    <button type="button" class="overlay-close">Close</button>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Work</a></li>
+        <li><a href="#">Clients</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+
     <footer>
       <div class="container">
         <div class="row">  
@@ -112,6 +125,7 @@
     <script type="text/javascript">
       $(window).stellar();
     </script>
+    <!-- start animation -->
     <script type="text/javascript">
       $( document ).ready(function() {
         $('body').css({
@@ -121,6 +135,11 @@
       });
     </script>
 
+    <!-- HUGE overlay -->
+    <script type="text/javascript" src="<?php bloginfo( 'template_url' ); ?>/js/modernizr.custom.js"></script>
+    <script type="text/javascript" src="<?php bloginfo( 'template_url' ); ?>/js/classie.js"></script>
+    <script type="text/javascript" src="<?php bloginfo( 'template_url' ); ?>/js/demo1.js"></script>
+    
     <?php wp_footer(); ?>
   </body>
 </html>

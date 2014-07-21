@@ -67,7 +67,7 @@
             <li class="desktop-menu">
               <a href="<?php echo home_url(); ?>/contatti">Contatti</a>
             </li>
-            <a href="">
+            <a id="trigger-overlay" href="#">
               <li id="mobile-menu">
                 <img id="hamburger" src="<?php bloginfo( 'template_url' ); ?>/img/hamburger.svg">
                 Menu
