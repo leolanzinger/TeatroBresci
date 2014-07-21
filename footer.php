@@ -1,15 +1,33 @@
+  <!-- HUGE menu -->
   <div class="overlay overlay-hugeinc">
     <button type="button" class="overlay-close">Close</button>
     <nav>
       <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Work</a></li>
-        <li><a href="#">Clients</a></li>
-        <li><a href="#">Contact</a></li>
+        <li><a href="<?php echo home_url(); ?>">
+          Home
+        </a></li>
+        <li><a href="<?php echo home_url(); ?>/chi-siamo">
+          Chi siamo
+        </a></li>
+        <li><a href="<?php echo home_url(); ?>/calendario">
+          Calendario
+        </a></li>
+        <li><a href="<?php echo home_url(); ?>/spettacoli">
+          Spettacoli
+        </a></li>
+        <li><a href="<?php echo home_url(); ?>/corsi">
+          Corsi<span class="amp">&amp;</span>lab
+        </a></li>
+        <li><a href="<?php echo home_url(); ?>/gallery">
+          Gallery
+        </a></li>
+        <li><a href="<?php echo home_url(); ?>/contatti">
+          Contatti
+        </a></li>
       </ul>
     </nav>
   </div>
+  <!-- end HUge menu -->
 
     <footer>
       <div class="container">
@@ -105,7 +123,7 @@
               <br>
               <a href="<?php echo home_url(); ?>/contatti">Contatti</a>
             </p>
-            <a href="http://www.babbiesproduction.com"><p id="footer-credits">Website design e implementazione:<br> Babbies Production</p></a>
+            <a href="http://www.babbiesproduction.com"><p id="footer-credits">Website design:<br> Babbies Production</p></a>
           </div>
         </div>
       </div>

@@ -42,7 +42,7 @@
               <div class="cbp-hrsub">
                 <div class="cbp-hrsub-inner"> 
                   <div>
-                    <h4><a href="<?php echo home_url(); ?>/corsi">Corsi e Laboratori</a></h4>
+                    <h4><a href="<?php echo home_url(); ?>/corsi">Corsi <span class="amp">&amp;</span> Laboratori</a></h4>
                     <ul>
                       <!-- retrieve corsi categories -->
                       <?php
