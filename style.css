@@ -816,6 +816,9 @@ h2 {
   height: 500px;
   position: relative;
   overflow: hidden;
+  -webkit-background-size: cover !important;
+  -moz-background-size: cover !important;
+  background-size: cover !important;
 }
 #spettacolo-parallax img {
   width: 100%;

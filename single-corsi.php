@@ -4,15 +4,20 @@
  */
 get_header(); ?>
 
+<?php 
+  /*
+   *  Retrieve background image url for header
+   */
+  $thumb = wp_get_attachment_image_src( get_post_thumbnail_id($post->ID), 'full' );
+  $url = $thumb['0']; 
+?>
+
 <?php
     if ( have_posts() ) {
       while ( have_posts() ) {
         the_post(); ?>
 
-<div id="corso-cover">
-  <div class="container">
-    <?php the_post_thumbnail(); ?>
-  </div>
+<div id="corso-cover" style="background: url(' <?=$url?> ') ">
 </div>
 
 <div class="container">
