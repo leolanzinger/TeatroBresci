@@ -1178,3 +1178,20 @@ span.amp {
   font-style: italic;
   font-weight: 300;
 }
+#notfound-title {
+  color: #fff;
+  text-shadow: 0 1px 2px #000;
+  position: absolute;
+  bottom: 80px;
+}
+#notfound-title h1 {
+  font-size: 60px;
+}
+#notfound-parallax {
+  height: 500px;
+  position: relative;
+  overflow: hidden;
+  -webkit-background-size: cover !important;
+  -moz-background-size: cover !important;
+  background-size: cover !important;
+}
