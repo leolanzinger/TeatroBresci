@@ -46,11 +46,11 @@ get_header(); ?>
           </div>
         </div>
       </div>
-      
+
     <?php
       endforeach;
     ?>
-
+  </div>
 </div>
 
 <?php get_footer(); ?>
