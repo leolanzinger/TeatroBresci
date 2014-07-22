@@ -15,7 +15,7 @@ get_header(); ?>
         <div class="spettacoli-hover">
           <p>Scopri</p>
         </div>
-        <img src="<?php bloginfo( 'template_url' ); ?>/img/home.jpg">
+        <img src="<?php bloginfo( 'template_url' ); ?>/img/prosa.jpg">
       </div>
     </a>
     <a href="<?php echo home_url(); ?>/category/teatro-ragazzi">
@@ -24,7 +24,7 @@ get_header(); ?>
       <div class="spettacoli-hover">
         <p>Scopri</p>
       </div>
-      <img src="<?php bloginfo( 'template_url' ); ?>/img/home.jpg">
+      <img src="<?php bloginfo( 'template_url' ); ?>/img/teatro-ragazzi.jpg">
       </div>
     </a>
     <a href="<?php echo home_url(); ?>/category/commemorativi">
@@ -33,7 +33,7 @@ get_header(); ?>
         <div class="spettacoli-hover">
           <p>Scopri</p>
         </div>
-        <img src="<?php bloginfo( 'template_url' ); ?>/img/home.jpg">
+        <img src="<?php bloginfo( 'template_url' ); ?>/img/commemorativi.jpg">
       </div>
     </a>
     <a href="<?php echo home_url(); ?>/category/lezioni-spettacolo">
@@ -42,7 +42,7 @@ get_header(); ?>
       <div class="spettacoli-hover">
         <p>Scopri</p>
       </div>
-      <img src="<?php bloginfo( 'template_url' ); ?>/img/home.jpg">
+      <img src="<?php bloginfo( 'template_url' ); ?>/img/lezioni-spettacolo.jpg">
       </div>
     </a>
   </div>
