@@ -141,6 +141,9 @@ Text Domain: teatrobresci teatro bresci
   .cbp-hrsub h4 {
     width: 970px;
   }
+  #navbar-logo a {
+    margin-top: 10px;
+  }
 }
 @media (min-width: 1200px) {
   .cbp-hrsub h4 {
@@ -373,7 +376,22 @@ h2 {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
+  background-position: center;
   margin-top: -88px;
+}
+@media screen and (max-width: 1047px) {
+  #home-parallax {
+    height: 550px;
+  }
+}
+@media screen and (max-width: 500px) {
+  #home-parallax {
+    height: 380px;
+    background-position: center;
+  }
+  #scroll-me {
+    display: none;
+  }
 }
 #scroll-me {
   position: absolute;
@@ -1077,11 +1095,27 @@ footer {
   margin-top: 0.7em;
   margin-bottom: 0.3em;
 }
+.instagram-tablet {
+  display: none;
+}
+@media screen and (max-width: 1200px) {
+  .instagram-full {
+    display: none;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .instagram-tablet {
+    display: block;
+  }
+}
+@media screen and (max-width: 680px) {
+  #instagram-row,
+  #gallery-instagram {
+    display: none;
+  }
+}
 body {
   margin-top: 48px;
-  opacity: 0;
-  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-  filter: alpha(opacity=0);
 }
 h2 {
   font-size: 2.3em;

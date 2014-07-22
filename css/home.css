@@ -11,7 +11,22 @@ h2 {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
+  background-position: center;
   margin-top: -88px;
+}
+@media screen and (max-width: 1047px) {
+  #home-parallax {
+    height: 550px;
+  }
+}
+@media screen and (max-width: 500px) {
+  #home-parallax {
+    height: 380px;
+    background-position: center;
+  }
+  #scroll-me {
+    display: none;
+  }
 }
 #scroll-me {
   position: absolute;

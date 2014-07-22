@@ -1,105 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.0.3 (7892) - http://www.bohemiancoding.com/sketch -->
-    <title>instagram</title>
+<svg width="61px" height="60px" viewBox="0 0 61 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.4 (8054) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
     <desc>Created with Sketch.</desc>
-    <defs>
-        <rect id="path-1" x="0" y="12.9323308" width="40" height="27.0676692" rx="12"></rect>
-        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
-            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
-            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
-            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
-            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.14 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
-            <feMerge>
-                <feMergeNode in="SourceGraphic"></feMergeNode>
-                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
-            </feMerge>
-        </filter>
-        <rect id="path-3" x="0" y="0" width="40" height="11.4285714" rx="12"></rect>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
-            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
-            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
-        </linearGradient>
-        <rect id="path-6" x="0" y="0" width="1.80451128" height="10.8270677"></rect>
-        <rect id="path-7" x="1.80451128" y="0" width="1.80451128" height="10.8270677"></rect>
-        <rect id="path-8" x="3.60902256" y="0" width="1.80451128" height="10.8270677"></rect>
-        <rect id="path-9" x="5.41353383" y="0" width="1.80451128" height="10.8270677"></rect>
-        <rect id="path-10" x="1.80451128" y="10.2255639" width="9.32330827" height="3.90977444" rx="4.5"></rect>
-        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-11">
-            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0.156862745   0 0 0 0 0.0901960784   0 0 0 0 0.0392156863  0 0 0 0.14 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
-            <feMerge>
-                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
-                <feMergeNode in="SourceGraphic"></feMergeNode>
-            </feMerge>
-        </filter>
-        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-12">
-            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0.156862745   0 0 0 0 0.0901960784   0 0 0 0 0.0392156863  0 0 0 0.14 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
-            <feMerge>
-                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
-                <feMergeNode in="SourceGraphic"></feMergeNode>
-            </feMerge>
-        </filter>
-    </defs>
-    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="Desktop-HD-2" sketch:type="MSArtboardGroup" transform="translate(-195.000000, -2114.000000)">
-            <g id="Footer" sketch:type="MSLayerGroup" transform="translate(-3.000000, 2038.000000)">
-                <g id="Sinistra" transform="translate(89.000000, 59.000000)">
-                    <g id="Social" transform="translate(1.000000, 0.000000)">
-                        <g id="instagram" transform="translate(108.000000, 17.000000)">
-                            <g id="body">
-                                <g id="Rectangle-1">
-                                    <use fill="#FFFFFF" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
-                                    <use fill="none" xlink:href="#path-1"></use>
-                                </g>
-                                <mask id="mask-4" sketch:name="Rectangle 1" fill="white">
-                                    <use xlink:href="#path-3"></use>
-                                </mask>
-                                <g id="Rectangle-1" filter="url(#filter-2)">
-                                    <use fill="#FFFFFF" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-3"></use>
-                                    <use fill="none" xlink:href="#path-3"></use>
-                                </g>
-                                <g id="Group" mask="url(#mask-4)">
-                                    <g transform="translate(3.007519, 0.000000)" id="Rectangle-17">
-                                        <g>
-                                            <use fill="#E81B3F" sketch:type="MSShapeGroup" xlink:href="#path-6"></use>
-                                            <use fill-opacity="0.5" fill="url(#linearGradient-5)" xlink:href="#path-6"></use>
-                                        </g>
-                                        <g>
-                                            <use fill="#FFBC34" sketch:type="MSShapeGroup" xlink:href="#path-7"></use>
-                                            <use fill-opacity="0.5" fill="url(#linearGradient-5)" xlink:href="#path-7"></use>
-                                        </g>
-                                        <g>
-                                            <use fill="#1DCF8E" sketch:type="MSShapeGroup" xlink:href="#path-8"></use>
-                                            <use fill-opacity="0.5" fill="url(#linearGradient-5)" xlink:href="#path-8"></use>
-                                        </g>
-                                        <g>
-                                            <use fill="#1D88CF" sketch:type="MSShapeGroup" xlink:href="#path-9"></use>
-                                            <use fill-opacity="0.5" fill="url(#linearGradient-5)" xlink:href="#path-9"></use>
-                                        </g>
-                                    </g>
-                                </g>
-                            </g>
-                            <g id="instabg">
-                                <use fill="#FFFFFF" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-10"></use>
-                                <use fill="none" xlink:href="#path-10"></use>
-                            </g>
-                            <g id="lens" transform="translate(9.022556, 8.421053)" sketch:type="MSShapeGroup">
-                                <circle id="Oval-1" opacity="0.4" fill="white" filter="url(#filter-11)" cx="10.8270677" cy="11.7293233" r="10.8270677"></circle>
-                                <circle id="Oval-1" opacity="0.2" fill="#000000" filter="url(#filter-12)" cx="10.8270677" cy="10.8270677" r="10.8270677"></circle>
-                                <circle id="Oval-1" fill="#FFFFFF" cx="10.8270677" cy="11.1278195" r="10.8270677"></circle>
-                                <g id="lens-elements" transform="translate(1.804511, 2.105263)" fill="#2C3E50">
-                                    <circle id="Oval-1" cx="9.02255639" cy="9.02255639" r="9.02255639"></circle>
-                                </g>
-                            </g>
-                            <g id="flashlight" transform="translate(29.774436, 3.609023)" fill="#2C3E50" sketch:type="MSShapeGroup">
-                                <rect id="Rectangle-30" x="0" y="0" width="6.31578947" height="6.31578947" rx="1.8"></rect>
-                            </g>
-                        </g>
-                    </g>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard" sketch:type="MSArtboardGroup" transform="translate(0.500000, 0.000000)">
+            <g id="icon_15266" sketch:type="MSLayerGroup" transform="translate(-0.500000, 0.000000)">
+                <g id="Your_Icon" sketch:type="MSShapeGroup">
+                    <path d="M35.25,18 C32.836,18 30.672,19.068 29.188,20.75 L41.312,20.75 C39.827,19.068 37.663,18 35.25,18 L35.25,18 Z" id="Shape"></path>
+                    <path d="M48.341,26.092 C48.341,33.311 42.469,39.183 35.25,39.183 C28.031,39.183 22.158,33.311 22.158,26.092 C22.158,24.189 22.576,22.384 23.309,20.75 L16.5,20.75 L16.5,45 L54,45 L54,20.75 L47.189,20.75 C47.923,22.384 48.341,24.188 48.341,26.092 L48.341,26.092 Z" id="Shape"></path>
+                    <path d="M27.158,26.092 C27.158,30.553 30.788,34.183 35.25,34.183 C39.711,34.183 43.341,30.553 43.341,26.092 C43.341,24.044 42.57,22.177 41.312,20.75 L29.188,20.75 C27.929,22.177 27.158,24.044 27.158,26.092 L27.158,26.092 Z" id="Shape"></path>
+                    <path d="M56.449,0 L4.051,0 C2.09,0 0.5,1.59 0.5,3.551 L0.5,55.949 C0.5,57.91 2.09,59.5 4.051,59.5 L56.449,59.5 C58.41,59.5 60,57.91 60,55.949 L60,3.551 C60,1.59 58.41,0 56.449,0 L56.449,0 Z M22.656,22.86 C24.515,20.754 27.226,19.416 30.25,19.416 C33.272,19.416 35.983,20.754 37.843,22.86 C39.42,24.648 40.385,26.986 40.385,29.551 C40.385,35.139 35.838,39.686 30.25,39.686 C24.661,39.686 20.114,35.139 20.114,29.551 C20.114,26.987 21.079,24.648 22.656,22.86 L22.656,22.86 Z M53.737,53.237 L6.763,53.237 L6.763,22.86 L15.293,22.86 C14.375,24.907 13.851,27.167 13.851,29.551 C13.851,38.594 21.208,45.949 30.25,45.949 C39.292,45.949 46.648,38.594 46.648,29.551 C46.648,27.167 46.124,24.906 45.206,22.86 L53.737,22.86 L53.737,53.237 L53.737,53.237 Z M53.737,12.858 C53.737,14.436 52.457,15.715 50.878,15.715 L47.144,15.715 C45.565,15.715 44.285,14.436 44.285,12.858 L44.285,9.121 C44.285,7.543 45.565,6.264 47.144,6.264 L50.878,6.264 C52.457,6.264 53.737,7.543 53.737,9.121 L53.737,12.858 L53.737,12.858 Z" id="Shape" fill="#FFFFFF"></path>
                 </g>
             </g>
         </g>

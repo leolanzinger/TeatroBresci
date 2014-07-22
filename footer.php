@@ -141,15 +141,30 @@
     <script type="text/javascript" src="<?php bloginfo( 'template_url' ); ?>/js/smooth-scroll.js"></script>
     <script type="text/javascript" src="<?php bloginfo( 'template_url' ); ?>/js/jquery.stellar.js" ></script>
     <script type="text/javascript">
-      $(window).stellar();
-    </script>
-    <!-- start animation -->
-    <script type="text/javascript">
-      $( document ).ready(function() {
-        $('body').css({
-          "transition" : "1s",
-          "opacity": "1"
-        });
+      var isMobile = {
+          Android: function() {
+              return navigator.userAgent.match(/Android/i);
+          },
+          BlackBerry: function() {
+              return navigator.userAgent.match(/BlackBerry/i);
+          },
+          iOS: function() {
+              return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+          },
+          Opera: function() {
+              return navigator.userAgent.match(/Opera Mini/i);
+          },
+          Windows: function() {
+              return navigator.userAgent.match(/IEMobile/i);
+          },
+          any: function() {
+              return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
+          }
+      };
+      jQuery(document).ready(function(){
+          if( !isMobile.any() ){
+              $(window).stellar({ horizontalScrolling: false });
+          }
       });
     </script>
 

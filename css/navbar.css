@@ -115,6 +115,9 @@
   .cbp-hrsub h4 {
     width: 970px;
   }
+  #navbar-logo a {
+    margin-top: 10px;
+  }
 }
 @media (min-width: 1200px) {
   .cbp-hrsub h4 {

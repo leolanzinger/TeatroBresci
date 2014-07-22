@@ -11,7 +11,10 @@ get_header(); ?>
   <div class="container">
     <h2 id="gallery-instagram-title">Instagram <a href="http://www.instagram.com/teatrobresci">@teatrobresci</a></h2>
     <!-- SnapWidget -->
-    <iframe src="http://snapwidget.com/bd/?u=dGVhdHJvYnJlc2NpfGlufDIwMHw1fDF8fHllc3wyMHxub25lfG9uU3RhcnR8eWVz&v=7714" title="Instagram Widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:1110px; height:347px"></iframe>
+    <iframe class="instagram-full" src="http://snapwidget.com/bd/?u=dGVhdHJvYnJlc2NpfGlufDIwMHw1fDF8fHllc3wyMHxub25lfG9uU3RhcnR8eWVz&v=7714" title="Instagram Widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:1110px; height:347px"></iframe>
+
+    <!-- SnapWidget tablet -->
+    <iframe class="instagram-tablet" src="http://snapwidget.com/bd/?u=dGVhdHJvYnJlc2NpfGlufDIwMHwzfDF8fHllc3wyMHxub25lfG9uU3RhcnR8eWVz&v=22714" title="Instagram Widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:666px; height:347px"></iframe>
   </div>
 </div>
   <div class="container">
