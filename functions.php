@@ -90,12 +90,15 @@
 	add_filter( 'category_template', 'new_subcategory_hierarchy' );
 
 
-	// function my_login_logo() { 
-	// <style type="text/css">
-	//     body.login div#login h1 a {
-	//         background-image: url( echo get_stylesheet_directory_uri(); /img/logo-mobile.svg);
-	//     }
-	// </style>
-	// php }
-	// add_action( 'login_enqueue_scripts', 'my_login_logo' );
+	function my_login_logo() { ?>
+	<style type="text/css">
+	    body.login div#login h1 a {
+	        background-image: url( <?php echo get_stylesheet_directory_uri(); ?>/img/login.jpg);
+	        background-size: contain;
+	    	width: 300px;
+	    	margin-bottom: 0;
+	    }
+	</style>
+	<?php }
+	add_action( 'login_enqueue_scripts', 'my_login_logo' );
 ?>
