@@ -40,7 +40,7 @@
 			'public' => true,
 			'has_archive' => true,
 			'menu_position' => 20,
-			'supports' => array('title', 'editor', 'thumbnail'),
+			'supports' => array('title', 'editor', 'thumbnail', 'excerpt'),
 			)
 		);
 		flush_rewrite_rules();

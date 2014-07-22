@@ -32,7 +32,7 @@ get_header(); ?>
 					<h2 class="actor-name"> <?php the_title(); ?></h2>
 				</a>
 				<div class="actor-description">
-					<?php the_content(); ?>
+					<?php the_excerpt(); ?>
 				</div>
 			</div>
 		<?php endwhile;
