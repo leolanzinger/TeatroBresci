@@ -876,6 +876,13 @@ h2 {
   -o-transition: 0.3s;
   -ms-transition: 0.3s;
   transition: 0.3s;
+  position: absolute;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  -o-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
 }
 .corso-list-mask:hover .corso-list-overlay {
   height: 100%;
@@ -898,11 +905,11 @@ h2 {
   transition: 0.6s;
 }
 .corso-list-mask:hover img {
-  -webkit-transform: scale(1.2);
-  -moz-transform: scale(1.2);
-  -o-transform: scale(1.2);
-  -ms-transform: scale(1.2);
-  transform: scale(1.2);
+  -webkit-transform: scale(1.2) translateX(-50%);
+  -moz-transform: scale(1.2) translateX(-50%);
+  -o-transform: scale(1.2) translateX(-50%);
+  -ms-transform: scale(1.2) translateX(-50%);
+  transform: scale(1.2) translateX(-50%);
   -webkit-transition: 0.3s;
   -moz-transition: 0.3s;
   -o-transition: 0.3s;
@@ -1013,7 +1020,7 @@ footer {
   color: #d46156;
   font-size: 5em;
   margin-bottom: 0;
-  margin-top: 0.8em;
+  margin-top: 0.2em;
 }
 .actor-photo {
   float: left;
