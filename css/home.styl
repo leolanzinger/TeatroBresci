@@ -80,3 +80,45 @@ h2
 
 #facebook iframe
   height 600px
+
+.festival-banner
+  margin 1em auto
+  padding 0
+  background-color red
+  width 100%
+  height 110px
+  overflow hidden
+
+.festival-banner-img
+  position relative
+  float left
+  height auto
+  width 300px
+@media screen and (max-width 768px)
+  .festival-banner-img
+    display none
+    width 0
+
+.festival-banner-desc
+  position relative
+  float left
+  width calc(100% - 300px)
+  height 100%
+  text-align center
+  font-family 'Raleway', sans-serif
+  h3
+    color white
+    font-size 25px
+    font-weight 600
+    margin-bottom .4em
+  a
+    color white
+    font-size 16px
+    font-weight 200
+    &:hover
+      color white
+      text-decoration underline
+
+@media screen and (max-width 768px)
+  .festival-banner-desc
+    width 100%

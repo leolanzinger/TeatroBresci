@@ -43,6 +43,17 @@
 			'supports' => array('title', 'editor', 'thumbnail', 'excerpt'),
 			)
 		);
+		register_post_type( 'festival banner',
+			array(
+				'labels' => array(
+					'name' => __( 'Festival banner' ),
+					'singular_name' => __( 'Festival banner' )
+				),
+			'public' => true,
+			'menu_position' => 20, 
+			'supports' => array('title', 'editor', 'thumbnail'),
+			)
+		);
 		flush_rewrite_rules();
 	}
 
@@ -94,7 +105,7 @@
 	    $slug = $post_data['post_name'];
 	    return $slug; 
 	}
-	
+
 	function my_login_logo() { ?>
 	<style type="text/css">
 	    body.login div#login h1 a {

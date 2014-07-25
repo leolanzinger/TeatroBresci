@@ -461,6 +461,54 @@ h2 {
 #facebook iframe {
   height: 600px;
 }
+.festival-banner {
+  margin: 1em auto;
+  padding: 0;
+  background-color: #d46156;
+  width: 100%;
+  height: 110px;
+  overflow: hidden;
+}
+.festival-banner-img {
+  position: relative;
+  float: left;
+  height: auto;
+  width: 300px;
+}
+@media screen and (max-width: 768px) {
+  .festival-banner-img {
+    display: none;
+    width: 0;
+  }
+}
+.festival-banner-desc {
+  position: relative;
+  float: left;
+  width: calc(100% - 300px);
+  height: 100%;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+.festival-banner-desc h3 {
+  color: #fff;
+  font-size: 25px;
+  font-weight: 600;
+  margin-bottom: 0.4em;
+}
+.festival-banner-desc a {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 200;
+}
+.festival-banner-desc a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+@media screen and (max-width: 768px) {
+  .festival-banner-desc {
+    width: 100%;
+  }
+}
 @-moz-keyframes Floatingx {
   0% {
     -webkit-transform: translate(0, 0px);
@@ -469,6 +517,7 @@ h2 {
     -ms-transform: translate(0, 0px);
     transform: translate(0, 0px);
   }
+
   8% {
     -webkit-transform: translate(0, 5px);
     -moz-transform: translate(0, 5px);
@@ -476,6 +525,7 @@ h2 {
     -ms-transform: translate(0, 5px);
     transform: translate(0, 5px);
   }
+
   16% {
     -webkit-transform: translate(0, 0px);
     -moz-transform: translate(0, 0px);
@@ -483,6 +533,7 @@ h2 {
     -ms-transform: translate(0, 0px);
     transform: translate(0, 0px);
   }
+
   24% {
     -webkit-transform: translate(0, 5px);
     -moz-transform: translate(0, 5px);
@@ -490,6 +541,7 @@ h2 {
     -ms-transform: translate(0, 5px);
     transform: translate(0, 5px);
   }
+
   32% {
     -webkit-transform: translate(0, 1px);
     -moz-transform: translate(0, 1px);
@@ -497,6 +549,7 @@ h2 {
     -ms-transform: translate(0, 1px);
     transform: translate(0, 1px);
   }
+
   100% {
     -webkit-transform: translate(0, -1px);
     -moz-transform: translate(0, -1px);
@@ -513,6 +566,7 @@ h2 {
     -ms-transform: translate(0, 0px);
     transform: translate(0, 0px);
   }
+
   8% {
     -webkit-transform: translate(0, 5px);
     -moz-transform: translate(0, 5px);
@@ -520,6 +574,7 @@ h2 {
     -ms-transform: translate(0, 5px);
     transform: translate(0, 5px);
   }
+
   16% {
     -webkit-transform: translate(0, 0px);
     -moz-transform: translate(0, 0px);
@@ -527,6 +582,7 @@ h2 {
     -ms-transform: translate(0, 0px);
     transform: translate(0, 0px);
   }
+
   24% {
     -webkit-transform: translate(0, 5px);
     -moz-transform: translate(0, 5px);
@@ -534,6 +590,7 @@ h2 {
     -ms-transform: translate(0, 5px);
     transform: translate(0, 5px);
   }
+
   32% {
     -webkit-transform: translate(0, 1px);
     -moz-transform: translate(0, 1px);
@@ -541,6 +598,7 @@ h2 {
     -ms-transform: translate(0, 1px);
     transform: translate(0, 1px);
   }
+
   100% {
     -webkit-transform: translate(0, -1px);
     -moz-transform: translate(0, -1px);
@@ -557,6 +615,7 @@ h2 {
     -ms-transform: translate(0, 0px);
     transform: translate(0, 0px);
   }
+
   8% {
     -webkit-transform: translate(0, 5px);
     -moz-transform: translate(0, 5px);
@@ -564,6 +623,7 @@ h2 {
     -ms-transform: translate(0, 5px);
     transform: translate(0, 5px);
   }
+
   16% {
     -webkit-transform: translate(0, 0px);
     -moz-transform: translate(0, 0px);
@@ -571,6 +631,7 @@ h2 {
     -ms-transform: translate(0, 0px);
     transform: translate(0, 0px);
   }
+
   24% {
     -webkit-transform: translate(0, 5px);
     -moz-transform: translate(0, 5px);
@@ -578,6 +639,7 @@ h2 {
     -ms-transform: translate(0, 5px);
     transform: translate(0, 5px);
   }
+
   32% {
     -webkit-transform: translate(0, 1px);
     -moz-transform: translate(0, 1px);
@@ -585,6 +647,56 @@ h2 {
     -ms-transform: translate(0, 1px);
     transform: translate(0, 1px);
   }
+
+  100% {
+    -webkit-transform: translate(0, -1px);
+    -moz-transform: translate(0, -1px);
+    -o-transform: translate(0, -1px);
+    -ms-transform: translate(0, -1px);
+    transform: translate(0, -1px);
+  }
+}
+@-ms-keyframes Floatingx {
+  0% {
+    -webkit-transform: translate(0, 0px);
+    -moz-transform: translate(0, 0px);
+    -o-transform: translate(0, 0px);
+    -ms-transform: translate(0, 0px);
+    transform: translate(0, 0px);
+  }
+
+  8% {
+    -webkit-transform: translate(0, 5px);
+    -moz-transform: translate(0, 5px);
+    -o-transform: translate(0, 5px);
+    -ms-transform: translate(0, 5px);
+    transform: translate(0, 5px);
+  }
+
+  16% {
+    -webkit-transform: translate(0, 0px);
+    -moz-transform: translate(0, 0px);
+    -o-transform: translate(0, 0px);
+    -ms-transform: translate(0, 0px);
+    transform: translate(0, 0px);
+  }
+
+  24% {
+    -webkit-transform: translate(0, 5px);
+    -moz-transform: translate(0, 5px);
+    -o-transform: translate(0, 5px);
+    -ms-transform: translate(0, 5px);
+    transform: translate(0, 5px);
+  }
+
+  32% {
+    -webkit-transform: translate(0, 1px);
+    -moz-transform: translate(0, 1px);
+    -o-transform: translate(0, 1px);
+    -ms-transform: translate(0, 1px);
+    transform: translate(0, 1px);
+  }
+
   100% {
     -webkit-transform: translate(0, -1px);
     -moz-transform: translate(0, -1px);
@@ -601,6 +713,7 @@ h2 {
     -ms-transform: translate(0, 0px);
     transform: translate(0, 0px);
   }
+
   8% {
     -webkit-transform: translate(0, 5px);
     -moz-transform: translate(0, 5px);
@@ -608,6 +721,7 @@ h2 {
     -ms-transform: translate(0, 5px);
     transform: translate(0, 5px);
   }
+
   16% {
     -webkit-transform: translate(0, 0px);
     -moz-transform: translate(0, 0px);
@@ -615,6 +729,7 @@ h2 {
     -ms-transform: translate(0, 0px);
     transform: translate(0, 0px);
   }
+
   24% {
     -webkit-transform: translate(0, 5px);
     -moz-transform: translate(0, 5px);
@@ -622,6 +737,7 @@ h2 {
     -ms-transform: translate(0, 5px);
     transform: translate(0, 5px);
   }
+
   32% {
     -webkit-transform: translate(0, 1px);
     -moz-transform: translate(0, 1px);
@@ -629,6 +745,7 @@ h2 {
     -ms-transform: translate(0, 1px);
     transform: translate(0, 1px);
   }
+
   100% {
     -webkit-transform: translate(0, -1px);
     -moz-transform: translate(0, -1px);
