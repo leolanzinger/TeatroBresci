@@ -30,7 +30,7 @@ h2 {
 }
 #scroll-me {
   position: absolute;
-  bottom: 0;
+  bottom: 40px;
   text-align: center;
   width: 100%;
   color: #fff;
