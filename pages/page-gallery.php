@@ -19,7 +19,7 @@ get_header(); ?>
 </div>
   <div class="container">
     <div class="row">
-      <div class="col-sm-8">
+      <div class="col-sm-7">
         <h2>Foto</h2>
         <?php
           if ( have_posts() ) {
@@ -30,7 +30,7 @@ get_header(); ?>
           }
         ?>
       </div>
-      <div class="col-sm-4">
+      <div class="col-sm-5">
         <h2>Video</h2>
         <iframe width="100%" height="315" src="//www.youtube.com/embed/Lc_EFMuXYTU?list=UURNEvBxrzCS3JlCoCkNcPpw" frameborder="0" allowfullscreen></iframe>
       </div>
