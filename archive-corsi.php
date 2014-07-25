@@ -15,6 +15,11 @@ get_header(); ?>
         $corsi = get_category_by_slug('corsi'); 
         $desc = $corsi->description;
         echo $desc;
+        /*
+         * Active header on navbar
+         */
+        $_SESSION['wordpress_page'] = false;
+        $_SESSION['corsi'] = true; 
       ?>
     </p>
   </div>
@@ -46,11 +51,11 @@ get_header(); ?>
           </div>
         </div>
       </div>
-      
+
     <?php
       endforeach;
     ?>
-
+  </div>
 </div>
 
 <?php get_footer(); ?>

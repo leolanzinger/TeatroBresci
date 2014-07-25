@@ -9,4 +9,9 @@
 	</head>
 	<body>
 
-	<?php get_template_part( 'navbar' ); ?> 
+	<?php 
+		$_SESSION['wordpress_page'] = true;
+		$_SESSION['spettacoli'] = false;
+		$_SESSION['corsi'] = false; 
+		get_template_part( 'navbar' ); 
+	?> 

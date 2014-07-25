@@ -36,6 +36,7 @@ get_header(); ?>
 				</div>
 			</div>
 		<?php endwhile;
+		wp_reset_query();
 	?>
 
 </div>

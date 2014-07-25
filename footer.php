@@ -173,6 +173,27 @@
     <script type="text/javascript" src="<?php bloginfo( 'template_url' ); ?>/js/classie.js"></script>
     <script type="text/javascript" src="<?php bloginfo( 'template_url' ); ?>/js/demo1.js"></script>
     
+    <!-- active list item -->
+    <script>
+      <?php 
+        if ($_SESSION['wordpress_page'] == true) { ?>
+          $('#<?php echo the_slug(); ?>-nav').addClass('current');
+        <?php
+        }
+        else { 
+          if ($_SESSION['spettacoli'] == true) { ?>
+            $('#spettacoli-nav').addClass('current');
+          <?php
+          }
+          else if ($_SESSION['corsi'] == true) {
+          ?>
+            $('#corsi-nav').addClass('current');
+        <?php
+          } 
+        } 
+        ?>
+    </script>
+
     <?php wp_footer(); ?>
   </body>
 </html>

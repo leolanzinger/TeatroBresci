@@ -2,7 +2,14 @@
 /*
  *  Spettacoli single page
  */
-get_header(); ?>
+get_header(); 
+
+/*
+ * Active header on navbar
+ */
+$_SESSION['wordpress_page'] = false;
+$_SESSION['spettacoli'] = true; 
+?>
 
 
 <?php 

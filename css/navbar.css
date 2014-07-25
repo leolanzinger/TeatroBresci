@@ -66,6 +66,9 @@
 .cbp-hrmenu > ul > li.cbp-hropen a:hover {
   color: #f0f0f0;
 }
+.cbp-hrmenu > ul > .current {
+  border-top: #f00 solid 2px;
+}
 /* sub-menu */
 .cbp-hrmenu .cbp-hrsub {
   display: none;
