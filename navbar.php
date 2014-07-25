@@ -38,7 +38,7 @@
               </div><!-- /cbp-hrsub -->
             </li>
             <li class="desktop-menu dropdown">
-              <a href="#">Corsi<span class="amp">&amp;</span>Laboratori</a>
+              <a href="#">Corsi<span class="amp">&amp;</span>Lab</a>
               <div class="cbp-hrsub">
                 <div class="cbp-hrsub-inner"> 
                   <div>

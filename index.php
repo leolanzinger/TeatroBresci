@@ -12,7 +12,7 @@
 </div>
 
 <div class="container">
-  <p id="home-intro">Facciamo il teatro che pensiamo necessario, lo facciamo con passione e crediamo che il buon teatro sia fatto per lasciare il segno. Un teatro di qualitá per tutti.</p>
+  <p id="home-intro">Facciamo il teatro che pensiamo necessario, lo facciamo con passione e crediamo che il buon teatro sia fatto per lasciare il segno. Un teatro di qualità per tutti.</p>
 </div>
 
 <div class="container">

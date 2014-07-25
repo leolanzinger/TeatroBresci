@@ -837,6 +837,8 @@ h2 {
 .corso-caption p {
   margin-top: 0.2em;
 }
+@media screen and (max-width: 700px) {
+}
 .corso-title {
   margin: 0;
   color: #d46156;
@@ -967,19 +969,14 @@ h2 {
   margin: 0 0 1em 0;
 }
 #corso-cover {
+  -webkit-background-size: cover !important;
+  -moz-background-size: cover !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-attachment: fixed !important;
   height: 350px;
   background: #d8d8d8;
   overflow: hidden;
-}
-#corso-cover .container img {
-  height: auto;
-  width: 100%;
-  margin-top: -50%;
-  -webkit-transform: translateY(50%);
-  -moz-transform: translateY(50%);
-  -o-transform: translateY(50%);
-  -ms-transform: translateY(50%);
-  transform: translateY(50%);
 }
 #corso-title {
   color: #000;
@@ -1022,10 +1019,18 @@ footer {
   width: 200px;
   height: 200px;
   overflow: hidden;
+  position: relative;
 }
 .actor-photo img {
   height: 100%;
   width: auto;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  -o-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+  position: absolute;
 }
 .actor-name {
   margin-top: 0;
@@ -1193,4 +1198,10 @@ span.amp {
   width: auto;
   margin-bottom: 5px;
   margin-top: 0;
+}
+.em-location-map,
+.em-locations-map,
+.em-location-map-container {
+  width: 100% !important;
+  height: 400px !important;
 }

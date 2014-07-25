@@ -17,7 +17,7 @@ get_header(); ?>
       while ( have_posts() ) {
         the_post(); ?>
 
-<div id="corso-cover" style="background: url(' <?=$url?> ') ">
+<div id="corso-cover" style="background-image: url(' <?=$url?> ') ">
 </div>
 
 <div class="container">
