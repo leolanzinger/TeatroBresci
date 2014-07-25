@@ -93,6 +93,9 @@ Text Domain: teatrobresci teatro bresci
 .cbp-hrmenu > ul > li.cbp-hropen a:hover {
   color: #f0f0f0;
 }
+.cbp-hrmenu > ul > .current {
+  border-top: #d46156 solid 2px;
+}
 .cbp-hrmenu .cbp-hrsub {
   display: none;
   position: absolute;

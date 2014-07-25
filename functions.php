@@ -28,7 +28,7 @@
 			'has_archive' => true,
 			'menu_position' => 20,
 			'taxonomies' => array('category'), 
-			'supports' => array('title', 'editor', 'thumbnail'),
+			'supports' => array('title', 'editor', 'thumbnail', 'page-attributes'),
 			)
 		);
 		register_post_type( 'persone',
@@ -89,7 +89,12 @@
 	}
 	add_filter( 'category_template', 'new_subcategory_hierarchy' );
 
-
+	function the_slug() {
+	    $post_data = get_post($post->ID, ARRAY_A);
+	    $slug = $post_data['post_name'];
+	    return $slug; 
+	}
+	
 	function my_login_logo() { ?>
 	<style type="text/css">
 	    body.login div#login h1 a {

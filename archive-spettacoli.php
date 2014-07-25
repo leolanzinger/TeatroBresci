@@ -2,7 +2,14 @@
 /*
  *	Spettacoli archive template
  */
-get_header(); ?>
+get_header(); 
+
+/*
+ * Active header on navbar
+ */
+$_SESSION['wordpress_page'] = false;
+$_SESSION['spettacoli'] = true; 
+?>
 
   <div class="container">
     <h1 id="spettacoli-title">Spettacoli</h1>

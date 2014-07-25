@@ -7,13 +7,13 @@
                 <img src="<?php bloginfo( 'template_url' ); ?>/img/logo.svg">
               </a>
             </li>
-            <li class="desktop-menu">
+            <li id="chi-siamo-nav" class="desktop-menu">
               <a href="<?php echo home_url(); ?>/chi-siamo">Chi siamo</a>
             </li>
-            <li class="desktop-menu">
+            <li id="calendario-nav" class="desktop-menu">
               <a href="<?php echo home_url(); ?>/calendario">Calendario</a>
             </li>
-            <li class="desktop-menu dropdown">
+            <li id="spettacoli-nav" class="desktop-menu dropdown">
               <a href="#">Spettacoli</a>
               <div class="cbp-hrsub">
                 <div class="cbp-hrsub-inner"> 
@@ -37,7 +37,7 @@
                 </div><!-- /cbp-hrsub-inner -->
               </div><!-- /cbp-hrsub -->
             </li>
-            <li class="desktop-menu dropdown">
+            <li id="corsi-nav" class="desktop-menu dropdown">
               <a href="#">Corsi<span class="amp">&amp;</span>Laboratori</a>
               <div class="cbp-hrsub">
                 <div class="cbp-hrsub-inner"> 
@@ -61,10 +61,10 @@
                 </div><!-- /cbp-hrsub-inner -->
               </div><!-- /cbp-hrsub -->
             </li>
-            <li class="desktop-menu">
+            <li id="gallery-nav" class="desktop-menu">
               <a href="<?php echo home_url(); ?>/gallery">Gallery</a>
             </li>
-            <li class="desktop-menu">
+            <li id="contatti-nav" class="desktop-menu">
               <a href="<?php echo home_url(); ?>/contatti">Contatti</a>
             </li>
             <a id="trigger-overlay" href="#">
