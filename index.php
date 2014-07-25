@@ -11,6 +11,41 @@
   </div>
 </div>
 
+<?php
+
+  $args = array( 'post_type' => 'festival banner', 'posts_per_page' => 1 );
+  $loop = new WP_Query( $args );
+  while ( $loop->have_posts() ) : $loop->the_post();
+
+     ?>
+      <div class="container">
+        <div class="festival-banner">
+          <img class="festival-banner-img" src="<?php bloginfo( 'template_url' ); ?>/img/antiche-mura-banner.png" />
+          <div class="festival-banner-desc clearfix">
+            <h3> 
+              <?php the_title(); ?>
+            </h3>
+            <a href="http://www.antichemurafestival.com">
+              <?php echo get_the_content(); ?>
+            </a>
+          </div>
+        </div>
+      </div>
+      <?php
+  endwhile;
+  wp_reset_query();
+?>
+
+<!-- <div class="container">
+    <div class="festival-banner">
+      <img class="festival-banner-img" src="<?php bloginfo( 'template_url' ); ?>/img/antiche-mura-banner.png" />
+      <div class="festival-banner-desc clearfix">
+        <h3>Antiche Mura Teatro Festival</h3>
+        <a href="http://www.antichemurafestival.com">scopri tutti i dettagli</a>
+      </div>
+    </div>
+</div> -->
+
 <div class="container">
   <p id="home-intro">Facciamo il teatro che pensiamo necessario, lo facciamo con passione e crediamo che il buon teatro sia fatto per lasciare il segno. Un teatro di qualità per tutti.</p>
 </div>
