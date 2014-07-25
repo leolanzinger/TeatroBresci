@@ -162,9 +162,11 @@
           }
       };
       jQuery(document).ready(function(){
-          if( !isMobile.any() ){
-              $(window).stellar({ horizontalScrolling: false });
-          }
+        if( !isMobile.any() ){
+          $(window).stellar({ 
+            horizontalScrolling: false,
+          });
+        }
       });
     </script>
 

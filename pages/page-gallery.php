@@ -18,14 +18,24 @@ get_header(); ?>
   </div>
 </div>
   <div class="container">
-    <?php
-      if ( have_posts() ) {
-        while ( have_posts() ) {
-          the_post();
-          the_content();
-        }
-      }
-    ?>
+    <div class="row">
+      <div class="col-sm-8">
+        <h2>Foto</h2>
+        <?php
+          if ( have_posts() ) {
+            while ( have_posts() ) {
+              the_post();
+              the_content();
+            }
+          }
+        ?>
+      </div>
+      <div class="col-sm-4">
+        <h2>Video</h2>
+        <iframe width="100%" height="315" src="//www.youtube.com/embed/Lc_EFMuXYTU?list=UURNEvBxrzCS3JlCoCkNcPpw" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
   </div>
+
 
 <?php get_footer(); ?>
