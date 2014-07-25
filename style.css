@@ -642,7 +642,7 @@ h2 {
   overflow: hidden;
 }
 #spettacoli-title {
-  margin: 0.3em 0 0.2em 0;
+  margin-bottom: 0.2em;
   text-align: right;
 }
 .spettacoli-mask {
@@ -809,9 +809,6 @@ h2 {
     font-size: 45px;
   }
 }
-#corsi-title {
-  margin-top: 0.8em;
-}
 @media screen and (max-width: 500px) {
   #corsi-title {
     font-size: 40px;
@@ -859,7 +856,6 @@ h2 {
   line-height: 1em;
 }
 #corsi-list-title {
-  margin-top: 0.6em;
   margin-bottom: 0.3em;
 }
 .corso-list-mask {
@@ -1156,7 +1152,7 @@ h2 {
 h1 {
   font-size: 5em;
   color: #d46156;
-  margin-top: 0.8em;
+  margin-top: 0.2em;
   margin-bottom: 0;
 }
 ul {
