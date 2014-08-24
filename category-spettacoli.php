@@ -34,7 +34,7 @@ $_SESSION['spettacoli'] = true;
                   <div class="corso-list-link">
                     <p>Visualizza <br> dettagli</p>
                   </div>
-                  <?php the_post_thumbnail( 'large' ); ?>
+                  <?php the_post_thumbnail( array(400, 400) ); ?>
                 </div>
                 
                 <h2 class="corso-list-title">
