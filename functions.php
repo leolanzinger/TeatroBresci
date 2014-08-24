@@ -106,7 +106,7 @@
 	// action function for above hook
 	function mt_add_pages() {
 		// Add a new top-level menu (ill-advised):
-	    add_menu_page(__('Teatro Bresci Istruzioni','menu-test'), __('Teatro Bresci Istruzioni Istruzioni','menu-test'), 'manage_options', 'mt-top-level-handle', 'mt_toplevel_page' );
+	    add_menu_page(__('Teatro Bresci Istruzioni','menu-test'), __('Teatro Bresci Istruzioni','menu-test'), 'manage_options', 'mt-top-level-handle', 'mt_toplevel_page' );
 	}
 
 	// mt_toplevel_page() displays the page content for the custom Test Toplevel menu
