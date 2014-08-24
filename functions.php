@@ -100,6 +100,23 @@
 	}
 	add_filter( 'category_template', 'new_subcategory_hierarchy' );
 
+	// Hook for adding admin menus
+	add_action('admin_menu', 'mt_add_pages');
+
+	// action function for above hook
+	function mt_add_pages() {
+		// Add a new top-level menu (ill-advised):
+	    add_menu_page(__('Teatro Bresci Istruzioni','menu-test'), __('Teatro Bresci Istruzioni Istruzioni','menu-test'), 'manage_options', 'mt-top-level-handle', 'mt_toplevel_page' );
+	}
+
+	// mt_toplevel_page() displays the page content for the custom Test Toplevel menu
+	function mt_toplevel_page() {
+	    echo "<h1>" . __( 'Teatro Bresci - come aggiornare il sito:', 'menu-test' ) . "</h1>";
+	    get_template_part( 'how', 'to' );
+	}
+
+
+
 	function the_slug() {
 	    $post_data = get_post($post->ID, ARRAY_A);
 	    $slug = $post_data['post_name'];
