@@ -34,7 +34,7 @@ get_header();
                   <div class="corso-list-link">
                     <p>Visualizza <br> dettagli</p>
                   </div>
-                  <?php the_post_thumbnail( 'medium' ); ?>
+                  <?php the_post_thumbnail( 'large' ); ?>
                 </div>
           			
                 <h2 class="corso-list-title">
