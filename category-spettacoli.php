@@ -34,6 +34,16 @@ $_SESSION['spettacoli'] = true;
                   <div class="corso-list-link">
                     <p>Visualizza <br> dettagli</p>
                   </div>
+                  
+                  <?php
+                  if ( has_post_thumbnail() ) {
+                    the_post_thumbnail();
+                  } else {
+                    ?>
+                    <img src="<?php bloginfo( 'template_url' ); ?>/img/placeholder-spettacolo.jpg">
+                    <?php
+                  }
+                  ?>
                   <?php the_post_thumbnail( array(400, 400) ); ?>
                 </div>
                 
