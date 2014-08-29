@@ -17,6 +17,11 @@ get_header();
         <?php
         	$cat_name = get_category(get_query_var('cat'))->name;
         ?>
+        <?php query_posts( array( 
+                         'post_type' => 'post',
+                         'posts_per_page' => -1 ) 
+              ); 
+        ?>
 
         <h1 id="corsi-list-title"><?php echo $cat_name; ?></h1>
       </div>
