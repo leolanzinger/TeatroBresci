@@ -1,6 +1,7 @@
 <html>
 	<head>
 		<?php wp_head(); ?>
+    <title>Teatro Bresci <?php wp_title(); ?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href='http://fonts.googleapis.com/css?family=Raleway:200,600' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="<?php bloginfo( 'template_url' ); ?>/style.css" type="text/css" media="screen" />

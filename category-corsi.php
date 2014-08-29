@@ -33,7 +33,7 @@ get_header();
     		while ( have_posts() ) { ?>
           <?php the_post(); ?>
           <a href="<?php the_permalink(); ?>">
-            <div class="col-sm-3 col-xs-6">  		
+            <div class="col-sm-3 col-xs-12">  		
                 <div class="corso-list-mask">
                   <div class="corso-list-overlay"></div>
                   <div class="corso-list-link">
